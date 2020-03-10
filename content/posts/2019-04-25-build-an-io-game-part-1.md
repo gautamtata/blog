@@ -1,51 +1,43 @@
 ---
-title: Let's talk about climate change
+title: The evidence for climate change
 date: "2020-03-10T12:00:00.000Z"
 dateModified: "2020-03-10T12:00:00.000Z"
 template: "post"
 draft: false
 slug: "/blog/build-an-io-game-part-1/"
-img: "/media-link/climate-change.jpg"
+img: "https://github.com/gautamtata/blog/blob/master/static/media/climate-change.jpg"
 isWeb: true
-category: "Climate Change"
+category: "series"
 tags:
   - "Climate Change"
   - "Planet Earth"
-description: A weird introduction to climate change.
+description: (Part 1/4) What's our evidence that Climate Change is real?
 prev: "/blog/intro-to-rnns/"
 next: "/blog/intro-to-rnns/"
 discussLinkTwitter: https://twitter.com/victorczhou/status/1121503205425332224
 discussLinkReddit: https://www.reddit.com/r/programming/comments/birl3h/how_to_build_a_multiplayer_io_web_game/
 ---
 
-When [Agar.io](https://agar.io) came out in 2015, it inspired a new [**.io game**](https://www.google.com/search?q=.io+game) genre that has since exploded in popularity. I experienced the rise of .io games firsthand: I've [built and sold 2 .io games](/blog/creating-and-selling-io-games/) in the past 3 years.
+**THE EVIDENCE**
 
-In case you've never heard of .io games before: they're free, multiplayer web games that are easy to join (no account required) and usually pit many players against each other in one arena. Other famous .io games include [Slither.io](https://slither.io) and [Diep.io](https://diep.io).
+The Earth's climate has changed throughout our history. This isn't our first and (hopefully) isn't our last. 
 
-In this post, we're going to **understand how to build an .io game from scratch**. All you need is a working knowledge of Javascript: you should be comfortable with things like [ES6](https://www.w3schools.com/js/js_es6.asp) syntax, the `this` keyword, and [Promises](https://developers.google.com/web/fundamentals/primers/promises). Even if you're not the most familiar with Javascript, you should still be able to get through most of this post.
+In the past half a million years there have been several cycles of massive climate changes that have brought about mass extinctions. The last ice age which was about 12000 years ago almost brought across the end of humanity itself. Most of these changes are attributed to very small variations in Earth's orbit that change the amount of solar energy that our planet receives.
 
-## An Example .io Game
+> We are the first generation to be able to **end poverty**, and the last generation that can take steps to avoid the worst impacts of climate change. Future generations will judge us harshly if we fail to uphold our moral and historical responsibilities. 
+**Ban Ki-moon, Secretary-General, United Nations**
 
-To help us learn, we're going to be referencing the [example .io game](https://example-io-game.victorzhou.com) embedded below. Go ahead, try it out! **You can play it right here on this page:**
+### If we have so many climate cycles that almost ended humanity as we know it then why is this one of such significance?
 
-<style>
-@media screen and (max-height: 750px) {
-    #example-io-game, #example-io-game iframe {
-        height: 600px;
-    }
-}
-@media screen and (max-height: 640px) {
-    #example-io-game, #example-io-game iframe {
-        height: 500px;
-    }
-}
-</style>
-<div id="example-io-game">
-    <iframe title="An example .io game" src="https://example-io-game.victorzhou.com" width="100%" height="700px"></iframe>
-</div>
-<figcaption>On mobile, it works best fullscreen at <a href="https://example-io-game.victorzhou.com" target="_blank" rel="noopener noreferrer">https://example-io-game.victorzhou.com</a></figcaption>
+### Why don't we just write this off as another natural cycle and continue to live our lives the way we have?
 
-It's a pretty simple game: you control a ship in an arena with other players. Your ship automatically fires bullets, and you're trying to hit other players with your bullets while avoiding theirs.
+I'm glad you asked.
+
+The current trend is of greater significance because this one is most likely **(> 95%)** chance that it is due to human activity since the dawn of the 20th century.
+
+Since we started measuring climate change as a metric, we have been proceeding at an unprecedented rate over millenia.
+
+[Ice cores]((https://www.bas.ac.uk/data/our-data/publication/ice-cores-and-climate-change/)) drawn from deep inside the planet in Greenland, Antarctica show that the Earth's climate responds to changes in greenhouse gas levels.
 
 ## Table of Contents
 
