@@ -8,12 +8,12 @@ draft: false
 slug: "/blog/intro-to-neural-networks/"
 img: "https://victorzhou.com/media/neural-network-post/network3.png"
 isML: true
-category: "Machine Learning"
+category: "landing a tech job"
 tags:
-  - "Machine Learning"
-  - "Neural Networks"
-  - "Python"
-  - "For Beginners"
+  - "tech job"
+  - "new grads"
+  - "how to"
+  - "cracking the tech interview"
 description: "A ready to go resume is your most powerful way to get interviews. Let's get your resume there."
 prev: "/series/intro-to-neural-networks/"
 next: "/blog/intro-to-rnns/"

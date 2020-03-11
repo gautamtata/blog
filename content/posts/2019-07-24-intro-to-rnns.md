@@ -1,19 +1,18 @@
 ---
-title: "An Introduction to Recurrent Neural Networks for Beginners"
-date: "2019-07-24T12:00:00.000Z"
+title: "How to get a job in tech: Applying to Jobs"
+date: "2020-03-11T12:00:00.000Z"
 template: "post"
 usesKatex: true
 draft: false
 slug: "/blog/intro-to-rnns/"
 img: "https://victorzhou.com/media/rnn-post/bptt.png"
 isML: true
-category: "Machine Learning"
+category: "landing a tech job"
 tags:
-  - "Machine Learning"
-  - "Neural Networks"
-  - "Natural Language Processing"
-  - "Python"
-  - "For Beginners"
+  - "tech job"
+  - "new grads"
+  - "how to"
+  - "cracking the tech interview"
 description: A simple walkthrough of what RNNs are, how they work, and how to build one from scratch in Python.
 prev: "/blog/intro-to-cnns-part-1/"
 next: "/blog/intro-to-cnns-part-1/"
