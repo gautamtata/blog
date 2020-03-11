@@ -142,24 +142,18 @@ I am not going to ask you to do this. It's **UNETHICAL** and you should only do 
 
 You made it! A quick recap of what we did:
 
-- Introduced **neurons**, the building blocks of neural networks.
-- Used the **sigmoid activation function** in our neurons.
-- Saw that neural networks are just neurons connected together.
-- Created a dataset with Weight and Height as inputs (or **features**) and Gender as the output (or **label**).
-- Learned about **loss functions** and the **mean squared error** (MSE) loss.
-- Realized that training a network is just minimizing its loss.
-- Used **backpropagation** to calculate partial derivatives.
-- Used **stochastic gradient descent** (SGD) to train our network.
+- Introduced **ATS** and how do we beat it
+- Looked at what keywords are good for your resume.
+- Understood what doesn't work in your resume.
+- Looked at what it takes to get your resume past the recruiter and engineering manager.
 
-There's still much more to do:
+There's still much more reading to do:
 
-- Experiment with bigger / better neural networks using proper machine learning libraries like [Tensorflow](https://www.tensorflow.org/), [Keras](https://keras.io/), and [PyTorch](https://pytorch.org/).
-- [Build your first neural network with Keras](/blog/keras-neural-network-tutorial/).
-- Tinker with [a neural network in your browser](https://playground.tensorflow.org).
-- Discover [other activation functions](https://keras.io/activations/) besides sigmoid, like [Softmax](/blog/softmax/).
-- Discover [other optimizers](https://keras.io/optimizers/) besides SGD.
-- Read my [introduction to Convolutional Neural Networks](/blog/intro-to-cnns-part-1/) (CNNs). CNNs revolutionized the field of [Computer Vision](/tag/computer-vision/) and can be extremely powerful.
-- Read my [introduction to Recurrent Neural Networks](/blog/intro-to-rnns/) (RNNs), which are often used for [Natural Language Processing](/tag/natural-language-processing/) (NLP).
+- How to impress recruiters [Undercover Recruiter](https://theundercoverrecruiter.com/resume-dos-donts/), [Keras](https://keras.io/), and [PyTorch](https://pytorch.org/).
+- [5 Skills Hiring managers Look for in Engineers](https://www.engineering.com/JobArticles/ArticleID/13894/5-Skills-Hiring-Managers-Look-for-in-Engineering-Grads.aspx).
+- [9 Things you need to know about ATS](https://www.jobscan.co/blog/8-things-you-need-to-know-about-applicant-tracking-systems/).
+- Resume parsing [Jobscan.co](https://jobscan.co/).
+
 
 I may write about these topics or similar ones in the future, so [subscribe](/subscribe/?src=intro-to-nn) if you want to get notified about new posts.
 
