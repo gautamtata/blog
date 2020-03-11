@@ -1,5 +1,5 @@
 ---
-title: "How to get a job: Getting your resume ready"
+title: "How to get a job in tech: Getting your Resume Ready"
 date: "2020-03-11T12:00:00.000Z"
 dateModified: "2020-03-11T12:00:00.000Z"
 template: "post"
