@@ -83,23 +83,34 @@ But the other point to think here is that it is YOUR JOB/A CAREER YOU ARE INTERE
 
 Below I have attached samples of 2 emails that I used to ask for referrals. 1 is with a classmate who works at Atallasian and the other is with my professor who has tons of contacts in the valley. For my professor, I just browsed his LinkedIn contacts made a spreadsheet of people I would like an introduction to. For some he did for most he didn't. I got an interview at VISA and Apple this way.
 
+
 **Friend/Aquaintance**
 
 ```
 Hey Person I know from School,
-I hope you're doing well. I think we may have crossed paths in one of our classes.
+I hope you're doing well. I think we may 
+have crossed paths in one of our classes.
 
-I saw on LinkedIn that you're working at Atlassian. Congrats! Hope the job's been treating you well.
+I saw on LinkedIn that you're working at Atlassian. Congrats! 
+Hope the job's been treating you well.
 
-I'd greatly appreciate a chance to chat about how to effectively approach applying to companies. I've already applied quite a few companies, but haven't heard back.
+I'd greatly appreciate a chance to chat about how to 
+effectively approach applying to companies. I've already 
+applied quite a few companies, but haven't heard back.
 
-Do you have 20 mins sometime next week, say Tuesday, June 25th, at 10am for a phone call? 
+Do you have 20 mins sometime next week, say Tuesday, 
+June 25th, at 10am for a phone call? 
 
 A bit more about me:
 --------------------------
-I'm a full-stack engineer that just graduated from CSU Monterey Bay (California) with a degree in Computer Science. I've built and shipped products that have users. I obsess over user experience and I do whatever it takes to deliver reliable, useful software.
+I'm a full-stack engineer that just graduated from 
+CSU Monterey Bay (California) with a degree in Computer 
+Science. I've built and shipped products that have users.
+I obsess over user experience and I do whatever it takes 
+to deliver reliable, useful software.
 
-Out of my projects, I’m most proud of the work that I’ve done for the Pacific Grove museum, to help researchers … 
+Out of my projects, I’m most proud of the work that I’ve
+done for the Pacific Grove museum, to help researchers … 
 
 1 min video in which I explain and walk through the project: 
 Codebase: 
@@ -111,7 +122,8 @@ Portfolio
 resume
 --------------------------
 
-Once again, would greatly appreciate any help / advice you may have. I look forward hearing back. 
+Once again, would greatly appreciate any help / advice 
+you may have. I look forward hearing back. 
 
 Regards,
 Gautam Tata,
@@ -122,19 +134,46 @@ w: www.gautamtata.com
 ```
 Hi Professor who I know has a ton of contacts,
 
-Hope you've been well. Thanks for a great capstone and an amazing senior year!
+Hope you've been well. Thanks for a great capstone and an 
+amazing senior year!
 
-I'd greatly, greatly appreciate your help in the following ways, if possible:
+I'd greatly, greatly appreciate your help in the following
+ways, if possible:
 
-1. Could you introduce me to people you know at Tech companies in the United States so that I can demonstrate to them what I can bring to their teams? I've already compiled this sheet, in which I listed all of your contacts that I found on LinkedIn, who I'd like to connect with. For each person you are willing to introduce me to, I will draft up a tailored email targeted to that person, in which I share a summary of the work that I've done, and ask them for a chance to chat about open roles and for a chance to demonstrate what I can bring to their teams. Then, you can simply forward that email asking if they're OK with a connection, and if yes, you can just CC me on that email thread. 
+1. Could you introduce me to people you know at Tech companies 
+in the United States so that I can demonstrate to them what 
+I can bring to their teams? I've already compiled this sheet
+in which I listed all of your contacts that I found on 
+LinkedIn, who I'd like to connect with. For each person 
+you are willing to introduce me to, I will draft up a 
+tailored email targeted to that person, in which I share 
+a summary of the work that I've done, and ask them for a
+chance to chat about open roles and for a chance to demonstrate
+what I can bring to their teams. Then, you can simply forward 
+that email asking if they're OK with a connection, 
+and if yes, you can just CC me on that email thread. 
 
-2. Could you please provide feedback on the blurb I've included below? This is the main piece in my outreach to companies. I've tried to make it as clear as possible what I can do. Unfortunately I haven't had much luck applying to companies online or directly reaching out to engineering managers / recruiters at companies. Would appreciate any advice you may have.
+2. Could you please provide feedback on the blurb I've 
+included below? This is the main piece in my outreach 
+to companies. I've tried to make it as clear as possible 
+what I can do. Unfortunately I haven't had much luck 
+applying to companies online or directly reaching 
+out to engineering managers / recruiters at companies. 
+Would appreciate any advice you may have.
 
 ------------------------
 About me:
-I'm a full-stack engineer that just graduated from CSU Monterey Bay (California) with a degree in Computer Science. I've built and shipped products that have users. I obsess over user experience and I do whatever it takes to deliver reliable, useful software.
+I'm a full-stack engineer that just graduated from CSU Monterey Bay
+with a degree in Computer Science. I've built and shipped products 
+that have users. I obsess over user experience and I do whatever 
+it takes to deliver reliable, useful software.
 
-Out of my projects, I’m most proud of the web application I built for the Pacific Grove museum, to help researchers effectively communicate the effects of climate change on the local water ecosystem - to the local community. This application was built in React, and has had hundreds of visitors so far.
+Out of my projects, I’m most proud of the web application 
+I built for the Pacific Grove museum, to help researchers 
+effectively communicate the effects of climate change on 
+the local water ecosystem - to the local community. 
+This application was built in React, and has had hundreds 
+of visitors so far.
 
 1 min video in which I explain and walk through the project: 
 Codebase: 
@@ -144,7 +183,11 @@ Live demo:
 Other links: Github, Portfolio, Resume, LinkedIn
 ------------------------
 
-I know I'm asking for a lot. I want to minimize the effort needed on your end to help me out, so please let me know if there's anything else I can do to make this easier for you. I would greatly appreciate your help. Thank you.
+I know I'm asking for a lot. I want to minimize the 
+effort needed on your end to help me out, so please 
+let me know if there's anything else I can do to 
+make this easier for you. I would greatly 
+appreciate your help. Thank you.
 
 Thanks,
 Gautam Tata,
@@ -153,7 +196,119 @@ ph:
 w: www.gautamtata.com
 ```
 
+The other method you can use for referral is use [teamBlind](https://www.teamblind.com/post/How-do-you-ask-for-referrals-E5FCfr8Q). People there usually post for referrals and are usually slammed by most people but you only need that 1-2 to click! Just write a nice message and I'm sure something will click.
+
+Another way is using [Rooftop Slushie](https://www.rooftopslushie.com/) where you can set some amount of money for employees to give you referrals. This is also another popular method.
+
+Note: I personally have never used the methods but have seen it happen so use it at your own benefit.
 ## The art of cold-emailing
+Here's the big one. For the next two methods, which is cold emailing and walking into companies, A lot of people don't use it out of fear and other don't because they think its socially unacceptable. Again, I just want to reiterate: Use it at your own benefit.
+
+Now, lets say that you have no friends/professors from whom you can ask for referrals. Or lets say that you've milked your contacts and still no luck.No worries, you have officially used what you can say "the tip of the iceberg". 
+
+You know have access to 1000's if not 10's of thousands of employees who work at places you want to work. This is the next step. You want to cold email the people who work at these companies and try to impress them. Impress them enough that they directly give you an interview or in some circumstances: straight offers.
+
+**Who to Email**: The people in power. The people who can either get you an interview directly or the people who can hand your resume in order to get you an interview.
+
+**Who are those people**: Those people are the Engineering managers or the Engineers working on the team.
+
+**WHY?**: If an Engineer or Engineering Manager wants you on their team they can make things happen! They can skip steps, get you ahead of line etc. Usually everyone is spamming the recruiters so the odds that they get back to you are slim.
+
+TOOLS THAT YOU NEED TO USE:
+1. [LinkedIn](https://www.linkedin.com): Use this to find the names of Engineering managers. Click on the company name -> People -> Search Engineering Manager.
+
+2. [hunter.io](https://hunter.io/) && [rocketreach.co](https://rocketreach.co/): Use these tools to find the emails of the managers.
+
+3. [snov.io](https://snov.io/): Use this to track who has opened your email. This is to determine whether or not your emails are being read. Usually a manager who is interested will open your email multiple times and click on different links. All of which can be accessed for free.
+
+4. Companies that I got an interview from: Quora, 23nMe, VSCO, Apple, Benchling,Mapbox, Zendesk and many more.
+
+Here is a sample of a cold-email that I used: 
+``` 
+Hi Engineering Manager,
+
+I'd greatly appreciate a chance to help further 23andme's mission,
+ by contributing as a software engineer on your team. 
+
+I'm a full-stack engineer that just graduated from CSU Monterey Bay
+with a degree in Computer Science, and have built a variety of
+products - a few that have actual users. 
+I obsess over user experience and do whatever it takes to build a 
+product that delivers value to its users.
+
+In all honesty, I only learned about 23andme a few months ago 
+from a friend who brought it up in a conversation about how 
+a huge use-case for machine learning is DNA processing and 
+how 23andme is a company that sits on tremendous data and 
+a tremendous opportunity to use it to improve healthcare 
+through prediction - an opportunity I find very exciting.
+
+I'd greatly appreciate a chance to chat with you about what
+I can bring to the table. Are you available for a 10 min 
+phone call or coffee in the coming weeks, say Friday 
+June 14th at 3pm? I understand you're very busy, 
+and am happy to work around your schedule in any way.
+
+Thanks in advance.
+
+--
+Regards,
+Gautam Tata
+c: (925) 405-7741
+w: gautamtata.com
+
+```
+
+Another Example
+
+```
+Dear CEO of Company,
+
+I’d greatly appreciate a chance to further Mapbox’s mission,
+ by contributing as a software engineer/intern/apprentice on 
+ your team.
+
+A little about me: My name is Gautam and I am a recent graduate
+from CSU Monterey Bay. I have experience as a full-stack 
+web developer but something I realized very late is that
+I am crazy about working with Maps, data-viz and geospatial
+data and due to my experience with Web, I am finding it very
+difficult to get into this space being a new-grad. Therefore, 
+I am reaching out to you for any possible internship/apprenticeship 
+opportunities on your team.
+
+I have been learning a lot about working with maps but taking courses 
+on OpenStreetMaps and learning tools like Apache Spark, Hadoop, postGIS,
+etc. As a reference to what I have learned, I have built an
+application that demonstrates my capability in learning 
+new technologies.  
+
+The project is a visualization of Uber drivers speeding around 
+London/SF schools. I built this by extracting OSM data and 
+processing it using Spark. 
+The link to the codebase: 
+I know this is a lot to ask but I’d greatly appreciate a 
+chance to show you what I can bring to the table and if possible,
+I’d love to set up a 10-minute chat to do the same. 
+I can be reached at(myemail@gmail.com). 
+I understand that you are busy and
+I can work around your schedule in any way.
+
+Sincerely,
+
+Gautam Tata
+
+(phoneNumber/myemail@gmail.com)
+
+```
+
+Yes, you read that right. That was the CEO of the company (whom I did get a response from!). The types of people I have cold emailed and gotten a response from are Engineers, Engineering Managers, VP's and CEO's.
+
+TIPS FOR COLD EMAIL:
+
+1. Show extreme passion and enthusiasm for their companies! Show that you've read their blog posts or their patents. If you can show that level of enthusaism for that company, trust me you are going to get that interview.
+
+2. WAIT! If you don't get an email back in a day or two don't fret. Even if they leave you on read. I cannot stress this enough. Its a waiting game and people are busy! (Especially the higher up the chain you go)
 
 ## Walking into companies
 
