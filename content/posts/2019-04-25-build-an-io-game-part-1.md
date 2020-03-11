@@ -4,10 +4,10 @@ date: "2020-03-10T12:00:00.000Z"
 dateModified: "2020-03-10T12:00:00.000Z"
 template: "post"
 draft: false
-slug: "/blog/build-an-io-game-part-1/"
+slug: "/blog/intro-to-climate-change-1/"
 img: "https://github.com/gautamtata/blog/blob/master/static/media/climate-change.jpg"
 isWeb: true
-category: "series"
+category: "Climate Change"
 tags:
   - "Climate Change"
   - "Planet Earth"

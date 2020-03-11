@@ -1,5 +1,5 @@
 ---
-title: "Keras for Beginners: Building Your First Neural Network"
+title: "Intro to Keras: Implementing our first Digit Classifier"
 date: "2019-06-14T12:00:00.000Z"
 dateModified: "2019-12-26T12:00:00.000Z"
 template: "post"
@@ -7,14 +7,14 @@ draft: false
 slug: "/blog/keras-neural-network-tutorial/"
 img: "https://victorzhou.com/media/keras-posts/keras-logo.png"
 isML: true
-category: "Python"
+category: "Machine Learning"
 tags:
   - "Python"
   - "Keras"
   - "Machine Learning"
   - "Neural Networks"
   - "For Beginners"
-description: A beginner-friendly guide on using Keras to implement a simple Neural Network in Python.
+description: Keras is an easy-to-use abstraction built on top of tensorflow. Let's use Keras to build our first "hello world" of Machine Learning - The Digit Classifier
 prev: "/blog/intro-to-cnns-part-1/"
 next: "/blog/intro-to-cnns-part-1/"
 ---

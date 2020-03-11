@@ -7,7 +7,7 @@ isSeries: true
 isML: true
 slug: "/series/intro-to-climate-change/"
 seriesSlugs:
-  - "/blog/build-an-io-game-part-1/"
+  - "/blog/intro-to-climate-change-1/"
 category: "Series"
 tags:
   - "Climate Change"
