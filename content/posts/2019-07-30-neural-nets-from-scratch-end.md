@@ -1,5 +1,5 @@
 ---
-frontSlug: "/series/intro-to-neural-networks/"
+frontSlug: "/series/how-to-get-a-job-in-tech/"
 ---
 
 ## What Next?

@@ -12,8 +12,8 @@ tags:
   - "Climate Change"
   - "Planet Earth"
 description: (Part 1/4) What's our evidence that Climate Change is real?
-prev: "/blog/intro-to-rnns/"
-next: "/blog/intro-to-rnns/"
+prev: "/blog/get-a-job-2/"
+next: "/blog/get-a-job-2/"
 discussLinkTwitter: https://twitter.com/victorczhou/status/1121503205425332224
 discussLinkReddit: https://www.reddit.com/r/programming/comments/birl3h/how_to_build_a_multiplayer_io_web_game/
 ---

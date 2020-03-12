@@ -47,7 +47,7 @@ const tagDescriptions = {
       </p>
       <ul>
         <li>
-          <Link to="/blog/intro-to-neural-networks/">An Introduction to Neural Networks</Link>
+          <Link to="/blog/get-a-job-1/">An Introduction to Neural Networks</Link>
         </li>
         <li>
           <Link to="/blog/intro-to-cnns-part-1/">
@@ -55,7 +55,7 @@ const tagDescriptions = {
           </Link>
         </li>
         <li>
-          <Link to="/blog/intro-to-rnns/">An Introduction to Recurrent Neural Networks</Link>
+          <Link to="/blog/get-a-job-2/">An Introduction to Recurrent Neural Networks</Link>
         </li>
         <li>
           <Link to="/blog/intro-to-random-forests/">Random Forests for Complete Beginners</Link>
@@ -177,7 +177,7 @@ const tagDescriptions = {
       <p>
         If you're interested in getting started with NLP, I recommend reading my{' '}
         <b>
-          <a href="/blog/intro-to-rnns">Introduction to Recurrent Neural Networks</a>
+          <a href="/blog/get-a-job-2/">Introduction to Recurrent Neural Networks</a>
         </b>{' '}
         (RNNs) first.
       </p>

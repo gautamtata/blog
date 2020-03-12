@@ -11,8 +11,8 @@ tags:
   - "Programming Languages"
   - "For Beginners"
 description: A survey of the best programming languages for Artificial Intelligence and Machine Learning.
-prev: "/series/intro-to-neural-networks/"
-next: "/blog/intro-to-rnns/"
+prev: "/series/how-to-get-a-job-in-tech/"
+next: "/blog/get-a-job-2/"
 ---
 
 The demand for Artificial Intelligence (AI) and Machine Learning (ML) applications has been steadily growing throughout the years. To paint a better picture, [the International Data Corporation (IDC) reports that global expenditure on AI is set to hit $98 billion by 2023](https://adtmag.com/articles/2019/09/04/ai-spending.aspx), making it one of the fastest-growing software purchases to date. ML is not too far behind, as [a similar report from IDC shows how ML patents grew at a 34% annual growth rate](https://www.forbes.com/sites/louiscolumbus/2018/02/18/roundup-of-machine-learning-forecasts-and-market-estimates-2018/#69a9803f2225), too.
@@ -25,7 +25,7 @@ To kick-start your career, it helps to know which languages are fit for the job.
 
 ## Python
 
-With Python's varied library ecosystem and flexibility, [most programmers turn to Python for ML](/blog/intro-to-neural-networks/). The Code Repository's analysis of pull requests ranked both Python's Numpy and Scipy as the most-used libraries for ML. The readability and low-entry barrier of the language make it easier to work with when dealing with complex systems and clearing relations between elements.
+With Python's varied library ecosystem and flexibility, [most programmers turn to Python for ML](/blog/get-a-job-1/). The Code Repository's analysis of pull requests ranked both Python's Numpy and Scipy as the most-used libraries for ML. The readability and low-entry barrier of the language make it easier to work with when dealing with complex systems and clearing relations between elements.
 
 ## C++
 

@@ -11,8 +11,8 @@ tags:
   - "Python"
   - "For Beginners"
 description: An overview of 5 important container objects from the collections module.
-prev: "/blog/intro-to-rnns/"
-next: "/blog/intro-to-rnns/"
+prev: "/blog/get-a-job-2/"
+next: "/blog/get-a-job-2/"
 ---
 
 Python provides a lot of built-in data structures, such as `list`, `set`, `dict`, and `tuple`. The [collections module](https://docs.python.org/3.8/library/collections.html) provides a set of special containers that extends the functionalities of these basic data structures.

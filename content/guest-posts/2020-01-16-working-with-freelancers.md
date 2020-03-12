@@ -10,8 +10,8 @@ category: "Best Practices"
 tags:
   - "Best Practices"
 description: If you’re looking to add freelance and remote workers to your team, these are the top tools to invest in.
-prev: "/blog/intro-to-rnns/"
-next: "/blog/intro-to-rnns/"
+prev: "/blog/get-a-job-2/"
+next: "/blog/get-a-job-2/"
 ---
 
 ![](./media-link/freelancer-guest-post/freelancers.png)

@@ -6,11 +6,11 @@ dateModified: "2020-02-09T12:00:00.000Z"
 template: "post"
 isSeries: true
 isML: true
-slug: "/series/intro-to-neural-networks/"
+slug: "/series/how-to-get-a-job-in-tech/"
 seriesSlugs:
-  - "/blog/intro-to-neural-networks/"
-  - "/blog/intro-to-rnns/"
-  - "/blog/keras-cnn-tutorial"
+  - "/blog/get-a-job-1/"
+  - "/blog/get-a-job-2/"
+  - "/blog/get-a-job-3/"
   - "/blog/get-a-job-4/"
 category: "Series"
 tags:

@@ -23,7 +23,7 @@ next: "/blog/get-a-job-3/"
 
 [Keras](https://keras.io/) is a simple-to-use but powerful deep learning library for Python. In this post, we'll see how easy it is to build a feedforward neural network and train it to solve a real problem with Keras.
 
-This post is intended for **complete beginners to Keras** but does assume a **basic background knowledge of neural networks**. My [introduction to Neural Networks](/blog/intro-to-neural-networks/) covers everything you need to know (and more) for this post - read that first if necessary.
+This post is intended for **complete beginners to Keras** but does assume a **basic background knowledge of neural networks**. My [introduction to Neural Networks](/blog/get-a-job-1/) covers everything you need to know (and more) for this post - read that first if necessary.
 
 Let's get started!
 
@@ -414,7 +414,7 @@ model.fit(
 
 You've implemented your first neural network with Keras! We achieved a test accuracy of **96.5%** on the MNIST dataset after 5 epochs, which is not bad for such a simple network. I'll include the full source code again below for your reference.
 
-If you want to learn about more advanced techniques to approach MNIST, I recommend checking out my [introduction to Convolutional Neural Networks](/blog/intro-to-cnns-part-1/) (CNNs). In it, we see how to achieve **much higher (>99%) accuracies** on MNIST using more complex networks. I also recommend my guide on [implementing a CNN with Keras](/blog/keras-cnn-tutorial/), which is similar to this post.
+If you want to learn about more advanced techniques to approach MNIST, I recommend checking out my [introduction to Convolutional Neural Networks](/blog/intro-to-cnns-part-1/) (CNNs). In it, we see how to achieve **much higher (>99%) accuracies** on MNIST using more complex networks. I also recommend my guide on [implementing a CNN with Keras](/blog/get-a-job-3/), which is similar to this post.
 
 Further reading you might be interested in include:
 - The official [getting started with Keras](https://keras.io/#getting-started-30-seconds-to-keras) guide.
