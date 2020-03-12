@@ -13,7 +13,7 @@ tags:
   - "new grads"
   - "how to"
   - "cracking the tech interview"
-description: A simple walkthrough of what RNNs are, how they work, and how to build one from scratch in Python.
+description: 4 ways to effectively apply to jobs.
 prev: "/blog/intro-to-neural-networks/"
 next: "/blog/intro-to-cnns-part-1/"
 discussLinkTwitter: https://twitter.com/victorczhou/status/1154055678518054912?s=20
@@ -312,18 +312,52 @@ TIPS FOR COLD EMAIL:
 
 ## Walking into companies
 
+Here is comes. Here is where everyone will tell me how this is unacceptable and why you should not do this. Well for me, this got me basically the majority of all my interviews so please feel free to skip this section if you cannot go forward with this approach.
+
+Having spent all my adult life in the Bay, I've always heard about [The hustle of the bay](https://www.kqed.org/arts/13861451/welcome-back-to-the-hustle-a-series-about-bay-area-artists-and-their-money) and how it is widely respected. I decided to go with the hustle route. A route which alot of my friends told me is not okay.
+
+So here's how you do it. Grab your resume, make a cover letter for the engineering manager (could be the same as cold email) and just walk inside companies and drop your letter off. **THATS IT**
+
+Go as far as you can in the company; drop off at the entrance desk; give it straight to the engineer if accessible; whatever you need to do inorder to get it to the right hands.
+
+**SECONDARY APPROACH** : Post it. Every Engineer has a mailbox at their company and will have mail delivered to them. Worst case, they open it say a few words and trash it. Best case - They **LOVE** the way you approach things and decide to give you an interview. 
+
+P.S: I got an Uber onsite this way; no frills, no hackerrank just straight Onsite.
+
+The list of companies that I got interviews with this way is nothing but incredible.
+
+I urge you to drop any shame and just go get it done. You can thank me later.
+
+> There isn't just one door to get into a company. There's always a backdoor - Karthik Uppuluri (Hustler)
+
 ## Career Fairs
+Aah, the college career fairs. The hustle bustle of the students. Huge lines for companies for a few seconds to talk to a recruiter or engineer and impress them enough to interview you.
+
+Here's the know how:
+
+1. Have a resume in your hand and be ready.
+2. Have a 30 second elevator pitch: Who you are, what you do and what you're interested in.
+3. Have your phone in hand with the contacts open: Immediately after the conversation ask them for their work email for a follow up email.
+4. Know who you are talking to: Recruiter or Engineer. (Usually very easy to spot!)
+If you are talking to a recruiter, know your buzzwords. Mine were React, Machine-learning, TensorFlow, MEAN stack.
+5. If you are talking to an engineer, be ready to explain your past work/projects in detail. You should be ready at any point to talk 30 minutes about your projects.
+6. Stay till the end. Ask if you can help out. They're usually carrying a ton of stuff to their cars and are tired at the end of the day. Use this time to sell yourself. [I got an interview with Plaid this way :)]
+7. Same Day Follow up!
+
+### A Socially Unacceptable Experiment
+
+I went to a small school in the central valley. The best company that came to my school was In'n'out. So I decided to drive up 2 hours to Berkeley,CA and tried to attend the UC Berkeley Career Fair.
+
+Here are 2 ways that you shouldn't do it:
+
+**DO NOT ACT LIKE YOU BELONG AND TAILGATE OTHER STUDENTS INSIDE THE VENUE JUST BECAUSE THE PEOPLE WHO ARE CHECKING ID'S ARE STUDENTS AND DON'T CARE**
+
+**DO NOT UNDER ANY CIRCUMSTANCE ASK OTHER STUDENTS FOR THEIR ID'S SO THAT YOU CAN USE IT TO ENTER**
+
+As I said, Please DO NOT USE any of the methods I mentioned above. They are not acceptable in any circumstance.
 
 ## The End
 
-That's it! In this post, we completed a walkthrough of Recurrent Neural Networks, including what they are, how they work, why they're useful, how to train them, and how to implement one. There's still much more you can do, though:
-
-- Learn about [Long short-term memory](http://www.datastuff.tech/machine-learning/lstm-how-to-train-neural-networks-to-write-like-lovecraft/) networks, a more powerful and popular RNN architecture, or about [Gated Recurrent Units](https://en.wikipedia.org/wiki/Gated_recurrent_unit) (GRUs), a well-known variation of the LSTM.
-- Experiment with bigger / better RNNs using proper ML libraries like [Tensorflow](https://www.tensorflow.org/), [Keras](https://keras.io/), or [PyTorch](https://pytorch.org/).
-- Read about [Bidirectional RNNs](https://en.wikipedia.org/wiki/Bidirectional_recurrent_neural_networks), which process sequences both forwards and backwards so more information is available to the output layer.
-- Try out [Word Embeddings](https://en.wikipedia.org/wiki/Word_embedding) like [GloVe](https://nlp.stanford.edu/projects/glove/) or [Word2Vec](https://en.wikipedia.org/wiki/Word2vec), which can be used to turn words into more useful vector representations.
-- Check out the [Natural Language Toolkit](https://www.nltk.org/) (NLTK), a popular Python library for working with human language data.
-
-I write a lot about [Machine Learning](/tag/machine-learning/), so [subscribe to my newsletter](/subscribe/?src=intro-to-rnns) if you're interested in getting future ML content from me.
+That's it! In this post, we completed a walkthrough of How you can apply for jobs, get interviews. For the next post, we will concentrate on how you can prepare for those interviews. See you there!
 
 Thanks for reading!

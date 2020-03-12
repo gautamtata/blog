@@ -77,9 +77,9 @@ const Post = ({ post, prevPost, nextPost, contentFooter, hideDescription }: Prop
       <div className={styles['post__viewSource']}>
         <p>
           <i>
-            This blog is{' '}
+            This blog and the website is{' '}
             <a
-              href="https://github.com/vzhou842/victorzhou.com"
+              href="https://github.com/gautamtata/blog"
               target="_blank"
               rel="noopener noreferrer"
             >

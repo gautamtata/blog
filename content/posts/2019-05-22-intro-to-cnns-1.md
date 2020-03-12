@@ -1,5 +1,5 @@
 ---
-title: "How To Get a Job in Tech Part 3: Getting the Interview"
+title: "How To Get a Job in Tech Part: Getting the Interview"
 date: "2019-05-22T12:00:00.000Z"
 dateModified: "2019-08-08T12:00:00.000Z"
 template: "post"
@@ -8,10 +8,12 @@ draft: false
 slug: "/blog/intro-to-cnns-part-1/"
 img: "https://victorzhou.com/media/cnn-post/cnn-dims-3.png"
 isML: true
-category: "Machine Learning"
+category: "LANDING A TECH JOB"
 tags:
-  - "Software Engineering"
-  - "Get A Job"
+ - "tech job"
+  - "new grads"
+  - "how to"
+  - "cracking the tech interview"
 description: An Indepth Walkthrough of the different ways to get a tech interview
 prev: "/blog/get-a-job-4/"
 next: "/blog/intro-to-rnns/"
