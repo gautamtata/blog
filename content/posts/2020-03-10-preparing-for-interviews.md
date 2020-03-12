@@ -15,11 +15,11 @@ tags:
   - "For Beginners"
   - "Computer Vision"
 description: A beginner friendly guide to cracking the behavioral an coding interview
-prev: "blog/get-a-job-2/"
+prev: "/blog/get-a-job-2/"
 next: "/blog/get-a-job-4/"
 ---
 
-![](./media-link/keras-posts/keras-logo.png)
+![](./media-link/sf.jpg)
 
 [Keras](https://keras.io/) is a simple-to-use but powerful deep learning library for Python. In this post, we'll build a simple [Convolutional Neural Network](/blog/intro-to-cnns-part-1/) (CNN) and train it to solve a real problem with Keras.
 
