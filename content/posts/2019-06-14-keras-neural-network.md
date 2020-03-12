@@ -15,8 +15,8 @@ tags:
   - "Neural Networks"
   - "For Beginners"
 description: Keras is an easy-to-use abstraction built on top of tensorflow. Let's use Keras to build our first "hello world" of Machine Learning - The Digit Classifier
-prev: "/blog/intro-to-cnns-part-1/"
-next: "/blog/intro-to-cnns-part-1/"
+prev: "/blog/get-a-job-3/"
+next: "/blog/get-a-job-3/"
 ---
 
 ![](./media-link/keras-posts/keras-logo.png)

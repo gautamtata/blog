@@ -15,7 +15,7 @@ tags:
   - "cracking the tech interview"
 description: 4 ways to effectively apply to jobs.
 prev: "/blog/intro-to-neural-networks/"
-next: "/blog/intro-to-cnns-part-1/"
+next: "/blog/keras-cnn-tutorial/"
 discussLinkTwitter: https://twitter.com/victorczhou/status/1154055678518054912?s=20
 discussLinkHN: https://news.ycombinator.com/item?id=20524543
 ---
