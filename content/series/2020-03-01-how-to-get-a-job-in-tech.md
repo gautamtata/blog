@@ -26,26 +26,26 @@ cover how to get your resume pass the screen, how to apply and how to prepare an
 
 
 
-This 4-post series, written for people trying to get their first job in tech, provides a **detailed** approach towards understanding what it takes to get a job in the valley. We'll start with an overview of job-hunting followed by **A way to get your resume pass the screen test** before moving on to **applying for jobs**. The tutorial will be completed by an indepth **interview preperation topics** and finally cover **negotiation**
+This 4-post series, written for people trying to get their first job in tech, provides a **detailed** approach towards understanding what it takes to get a job in the valley. We'll start with an overview of job-hunting followed by **A way to get your resume to pass the screen test** before moving on to **applying for jobs**. The tutorial will be completed by an in-depth **interview preparation topics** and finally cover **negotiation**
 
 ## Who is this for?
-This tutorial is for anyone looking to apply to tech jobs in the valley. The preparing for interviews post is exclusively for Software Engineering positions.
+This tutorial is for anyone looking to apply to tech jobs in the valley. Preparing for interviews post is exclusively for Software Engineering positions.
 
-Also, I want to cover posts for people who are not from big name schools or don't have Big-N internships.
+Also, I want to cover posts for people who are not from big-name schools or don't have Big-N internships.
 
 All opinions in this blog are my own. I am going to talk about my experience and share with you all the tips and tricks I learned on the way. While **a lot of you** might not agree with these methods, it's important to remember that this was the way **I approached this challenge.**
 
-Feel free to use any contents of this blog post that you think are good for you.
+Feel free to use any content of this blog post that you think is good for you.
 
 Ready? Let's go!
 
 
 ## Table of Contents
 
-1. [How to create your resume](/blog/get-a-job-1): Part 1 of the series teaches how to get your resume go thru to the recruiters. Here will will talk about using the **right** keywords, getting your resume parsed thru the ATS and what employers look for.
-2. [How to apply for jobs](/blog/get-a-job-2): Now that you have the perfect resume, we will have a deep dive into how to apply to jobs. Here will talk about the art of cold emailing, walking into companies to drop of resumes and other methods that will help you get interviews!
+1. [How to create your resume](/blog/get-a-job-1): Part 1 of the series teaches how to get your resume go through to the recruiters. Here will talk about using the **right** keywords, getting your resume parsed through the ATS and what employers look for.
+2. [How to apply for jobs](/blog/get-a-job-2): Now that you have the perfect resume, we will have a deep dive into how to apply to jobs. Here will talk about the art of cold emailing, walking into companies to drop off resumes and other methods that will help you get interviews!
 3. [How to prepare for your interviews](/blog/get-a-job-3) Congratulations! Now that you have started landing interviews, it's time to prepare the right way.
-4. [How to negotaite your offers](/blog/get-a-job-4): The toughest part of the interview process is done. Hopefully if you are at this post, there is just one more step to go. **Negotiation**. A deep dive into what negotiating with companies looks like and what you can possibly do to boost your offer!
+4. [How to negotiate your offers](/blog/get-a-job-4): The toughest part of the interview process is done. Hopefully if you are at this post, there is just one more step to go. **Negotiation**. A deep dive into what negotiating with companies looks like and what you can do to boost your offer!
 
 ## The Series
 
