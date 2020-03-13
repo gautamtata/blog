@@ -18,7 +18,7 @@ tags:
   - "Software Engineer"
   - "Tech"
   - "For Beginners"
-img: "https://victorzhou.com/media/nn-series/network.png"
+img: "https://gautamtata.com/media/nn-series/network.png"
 description: "A 4-post series that provides a detailed approach on how to get a tech-job in the valley."
 descriptionLong: "A 4-post series that provides a detailed approach on how to get a tech-job in the valley. We will
 cover how to get your resume pass the screen, how to apply and how to prepare and how to negotiate your offers."

@@ -6,7 +6,6 @@ template: "post"
 draft: false
 isML: true
 slug: "/blog/get-a-job-3/"
-img: "https://victorzhou.com/media/keras-posts/keras-logo.png"
 category: "landing a tech job"
 tags:
   - "tech job"

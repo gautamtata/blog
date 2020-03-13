@@ -34,7 +34,7 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "${author.name}",
-  "url": "https://victorzhou.com",
+  "url": "https://gautamtata.com",
   "sameAs": [
     "https://www.facebook.com/zhouvictor",
     "https://twitter.com/victorczhou",

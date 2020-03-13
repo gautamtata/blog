@@ -139,7 +139,7 @@ class SubscribeForm extends React.PureComponent<InnerProps, State> {
           </p>
         )}
         <form
-          action="https://sendy.victorzhou.com/subscribe"
+          action="https://sendy.gautamtata.com/subscribe"
           method="post"
           acceptCharset="utf-8"
           target="_self"
@@ -167,7 +167,7 @@ class SubscribeForm extends React.PureComponent<InnerProps, State> {
             autoCorrect="off"
             name="email"
             size="25"
-            placeholder="example@domain.com"
+            placeholder="COMING SOON"
             aria-label="Email Address"
             onKeyDown={onKeyDown}
             style={noDescription ? { marginTop: 0 } : undefined}
