@@ -1,8 +1,8 @@
 ---
 title: "How to get a job in Tech"
 subtitle: "The series of blog posts that gets you a job in tech"
-date: "2020-03-06T12:00:00.000Z"
-dateModified: "2020-02-09T12:00:00.000Z"
+date: "2020-03-21T12:00:00.000Z"
+dateModified: "2020-03-21T12:00:00.000Z"
 template: "post"
 isSeries: true
 isML: false
@@ -24,6 +24,7 @@ descriptionLong: "A 4-post series that provides a detailed approach on how to ge
 cover how to get your resume pass the screen, how to apply and how to prepare and how to negotiate your offers."
 ---
 
+![](../posts/media-link/tech.png)
 
 
 This 4-post series, written for people trying to get their first job in tech, provides a **detailed** approach towards understanding what it takes to get a job in the valley. We'll start with an overview of job-hunting followed by **A way to get your resume to pass the screen test** before moving on to **applying for jobs**. The tutorial will be completed by an in-depth **interview preparation topics** and finally cover **negotiation**
