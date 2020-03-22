@@ -7,6 +7,10 @@ import MovableSidebarContent from '../MovableSidebarContent';
 import Author from './Author';
 import styles from './Sidebar.module.scss';
 
+import useDarkMode from "use-dark-mode"
+import Sunrise from "../icons/sunrise"
+import Sunset from "../icons/sunset"
+
 type Props = {
   +hideSubscribeForm?: boolean,
   +hideAd?: boolean,
@@ -16,8 +20,12 @@ type PureProps = Props & {
   +data: Object,
 };
 
-export const PureSidebar = ({ data, hideSubscribeForm, hideAd }: PureProps) => {
+
+
+
+export const PureSidebar = ({ data, hideSubscribeForm, hideAd}, size) => {
   const { author } = data.site.siteMetadata;
+  
 
   return (
     <div className={styles['sidebar']}>
