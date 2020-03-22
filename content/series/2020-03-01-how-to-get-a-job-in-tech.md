@@ -38,16 +38,6 @@ All opinions in this blog are my own. I am going to talk about my experience and
 
 Feel free to use any content of this blog post that you think is good for you.
 
-Ready? Let's go!
-
-
-## Table of Contents
-
-1. [How to create your resume](/blog/get-a-job-1): Part 1 of the series teaches how to get your resume go through to the recruiters. Here will talk about using the **right** keywords, getting your resume parsed through the ATS and what employers look for.
-2. [How to apply for jobs](/blog/get-a-job-2): Now that you have the perfect resume, we will have a deep dive into how to apply to jobs. Here will talk about the art of cold emailing, walking into companies to drop off resumes and other methods that will help you get interviews!
-3. [How to prepare for your interviews](/blog/get-a-job-3) Congratulations! Now that you have started landing interviews, it's time to prepare the right way.
-4. [How to negotiate your offers](/blog/get-a-job-4): The toughest part of the interview process is done. Hopefully if you are at this post, there is just one more step to go. **Negotiation**. A deep dive into what negotiating with companies looks like and what you can do to boost your offer!
-
 ## The Series
 
 Ready to get started? Here we go:
