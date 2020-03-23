@@ -13,7 +13,7 @@ tags:
   - "Climate Change"
   - "Planet Earth"
 img: "https://github.com/gautamtata/blog/blob/master/static/media/climate-change.jpg"
-description: "A 4 part series that explores the evidence, causes, effects and solutions to climate change"
+description: "(INCOMPLETE) A 4 part series that explores the evidence, causes, effects and solutions to climate change"
 
 ---
 

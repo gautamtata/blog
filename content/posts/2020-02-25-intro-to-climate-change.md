@@ -1,5 +1,5 @@
 ---
-title: The Evidence for Climate Change
+title: The Evidence for Climate Change 
 date: "2020-03-10T12:00:00.000Z"
 dateModified: "2020-03-10T12:00:00.000Z"
 template: "post"
@@ -11,7 +11,7 @@ category: "Climate Change"
 tags:
   - "Climate Change"
   - "Planet Earth"
-description: (Part 1/4) What's our evidence that Climate Change is real?
+description: (INCOMPLETE)(Part 1/4) What's our evidence that Climate Change is real?
 prev: "/blog/get-a-job-2/"
 next: "/blog/get-a-job-2/"
 discussLinkTwitter: https://twitter.com/victorczhou/status/1121503205425332224

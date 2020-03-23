@@ -6,18 +6,21 @@ slug: "/about/"
 
 I studied Computer Science at California State University, Monterey Bay and now started working at Salesforce in San Francisco (SWE).
 
-Previously, interned at the Museum of Natural History, Monterey Bay Aquarium Research Institute and Bechtel corp.
+Previously interned at the [Museum of Natural History](https://www.pgmuseum.org/), [Monterey Bay Aquarium Research Institute](https://www.mbari.org/) and [Bechtel corp](https://www.bechtel.com/).
 
 
 A few of my more well-known projects include:
 
-- [**generals.io**](http://generals.io) [[subreddit](https://reddit.com/r/generalsio), [Hacker News](https://news.ycombinator.com/item?id=13145781), [Product Hunt](https://www.producthunt.com/posts/generals-io)], a multiplayer browser strategy game with half a million monthly players and a [Bot API](http://dev.generals.io) [[Hacker News](https://news.ycombinator.com/item?id=13562866)]. Sold in January 2018.
-- [**Neural Networks From Scratch**](/series/intro-to-neural-networks), a series of 4 of my most popular blog posts in which I provide a fundamentals-oriented approach towards understanding Neural Networks.
-- [**faster.js**](https://github.com/vzhou842/faster.js) [[Hacker News](https://news.ycombinator.com/item?id=16886494)], a micro-optimizing Javascript compiler. I wrote a post titled [Avoid Premature Optimization](/blog/avoid-premature-optimization/) detailing a few things I learned from this experience.
-- [**GeoArena Online**](https://geoarena.online) [[subreddit](https://reddit.com/r/geoarena), [Product Hunt](https://www.producthunt.com/posts/geoarena-online)], a fast-paced multiplayer browser game that had hundreds of thousands of monthly players. I wrote a [blog post](/blog/why-you-should-use-webpack/) about some of my experiences building GeoArena. Sold in February 2019.
-- [**profanity-check**](https://github.com/vzhou842/profanity-check) [[Hacker News](https://news.ycombinator.com/item?id=18777950)], a fast, robust Python library to check for profanity in strings. [Read my blog post](/blog/better-profanity-detection-with-scikit-learn/) about this project.
+- [**How to get a job in tech**](/series/how-to-get-a-job-in-tech) [[Subreddit]() [Hacker News]()] a 4 post series of my most popular blog where I provide a guide on how to get a job in tech.
 
-I've spoken on a tech podcast about my experiences [building and selling games](/blog/creating-and-selling-io-games/) like generals.io and GeoArena.
+- [**Monterey county climate visualization**](https://gautamtata.github.io/watershed-guardians/), A project I worked on with the Museum of Natural History in Monterey, CA to visualize the long-term effects of climate change on the local watershed and ecosystem. Tech Stack: React, Mapbox and Python.
+
+- [**speed.ai**](https://github.com/gautamtata/speeding-uber), a project that I developed to showcase on average how many Uber drivers are speeding in San Francisco and London. Stack: pySpark, Apache Hive, OSM, Uber Movements dataset.
+
+- [**Convenient Hacknews**](https://github.com/gautamtata/convenient-hackerNews), A side project that I created to have a split-pane view of hackernews where the user doesn't have to leave the screen in order to view the news.
+
+- [**Bollywood music generation using Machine Learning**](https://github.com/gautamtata/bollywood-music-generation-lstm), Generate bollywood music using Long Short Term Memory Neural Networks (LSTM's - RNN).
+
 
 You can see more of my projects on my [Github](https://github.com/gautamtata).
 
