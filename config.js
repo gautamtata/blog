@@ -23,8 +23,8 @@ module.exports = {
   ],
   author: {
     name: 'Gautam Tata',
-    photo: '/favicon-32x32.png',
-    photoLarge: '/photo2.jpg',
+    photo: '/photo2_opt_opt.jpg',
+    photoLarge: '/gt.jpeg',
     bio:
     "SWE @Salesforce. CSUMB Class of '19. I write about climate change, data stuff, machine learning and more.",
     copyright: '© Gautam Tata',
