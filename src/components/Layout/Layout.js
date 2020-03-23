@@ -26,60 +26,6 @@ export const PureLayout = ({ children, title, description, data, location }) => 
 
   return (
     <div>
-    <div 
-      css={{
-        [mediaMax.small]: {
-          marginLeft: 'auto',
-          marginRight: 'auto',
-        },
-        maxWidth: rhythm(24),
-        padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-        a: {
-          color: 'inherit',
-          textDecoration: 'none',
-          transition: `border-color ${EASE_IN_OUT_TRANSITION}`,
-          borderBottom: `1px dashed transparent`,
-          '&:hover, &:focus': {
-            borderBottomColor: color,
-          },
-        },
-        blockquote: {
-          color: secondary,
-          borderColor: secondary,
-        },
-      }}>
-        <Button
-          aria-label="Light and dark mode switch"
-          circular
-          onClick={toggleTheme}
-          className="container"
-          css={{
-            background,
-            transitionDuration: '0s',
-            // delay background-color transition for nicer animation
-            transitionDelay: theme === 'dark' ? '0s' : BACKGROUND_TRANSITION_TIME,
-            transitionProperty: 'background-color, color',
-          }}
-        >
-          {theme === 'light' ? <FiSun /> : <FiMoon />}
-          <div
-            className={theme}
-            css={{
-              position: 'absolute',
-              background: darkTheme.background,
-              borderRadius: '50%',
-              width: 32,
-              height: 32,
-              zIndex: -1,
-              transition: `transform ${BACKGROUND_TRANSITION_TIME} ease`,
-              '&.dark': {
-                transform: 'scale(150)',
-              },
-            }}
-          />
-        </Button>
-        {children}
-      </div>
       <Helmet>
         
         <html lang="en" />
@@ -92,8 +38,7 @@ export const PureLayout = ({ children, title, description, data, location }) => 
         <meta name="twitter:site" content={twitter} />
         <meta name="twitter:creator" content={twitter} />
       </Helmet>
-      
-      
+    {children}
     </div>
   );
 };

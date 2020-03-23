@@ -1,5 +1,5 @@
 ---
-title: The Evidence for Climate Change 
+title: The Evidence For Climate Change 
 date: "2020-03-10T12:00:00.000Z"
 dateModified: "2020-03-10T12:00:00.000Z"
 template: "post"

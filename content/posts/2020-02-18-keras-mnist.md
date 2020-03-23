@@ -1,5 +1,5 @@
 ---
-title: "Intro to Keras: Implementing our first Digit Classifier"
+title: "Intro To Keras: Implementing A Digit Classifier"
 date: "2019-06-14T12:00:00.000Z"
 dateModified: "2019-12-26T12:00:00.000Z"
 template: "post"

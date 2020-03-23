@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Climate Change"
+title: "Introduction To Climate Change"
 date: "2020-03-10T12:00:00.000Z"
 dateModified: "2020-03-10T12:00:00.000Z"
 template: "post"

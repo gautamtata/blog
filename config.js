@@ -23,14 +23,14 @@ module.exports = {
   ],
   author: {
     name: 'Gautam Tata',
-    photo: '/photo2.png',
-    photoLarge: '/photo2-large.png',
+    photo: '/photo2.jpg',
+    photoLarge: '/photo2.jpg',
     bio:
     "SWE @Salesforce. CSUMB Class of '19. I write about climate change, data stuff, machine learning and more.",
     copyright: '© Gautam Tata',
     contacts: {
       email: 'gautamtata@gmail.com',
-      twitter: 'Gautam27525412',
+      twitter: 'gautamtata',
       github: 'gautamtata',
       rss: '/rss.xml',
     },

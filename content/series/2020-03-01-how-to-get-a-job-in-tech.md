@@ -1,5 +1,5 @@
 ---
-title: "How to get a job in Tech"
+title: "How To Get A Job In Tech"
 subtitle: "The series of blog posts that gets you a job in tech"
 date: "2020-03-21T12:00:00.000Z"
 dateModified: "2020-03-21T12:00:00.000Z"
