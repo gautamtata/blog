@@ -4,7 +4,7 @@ template: "page"
 slug: "/about/"
 ---
 
-I studied Computer Science at California State University, Monterey Bay and now started working at Salesforce in San Francisco (SWE).
+I studied Computer Science at California State University, Monterey Bay and now at [Salesforce](https://www.salesforce.com/) in San Francisco.
 
 Previously interned at the [Museum of Natural History](https://www.pgmuseum.org/), [Monterey Bay Aquarium Research Institute](https://www.mbari.org/) and [Bechtel corp](https://www.bechtel.com/).
 
