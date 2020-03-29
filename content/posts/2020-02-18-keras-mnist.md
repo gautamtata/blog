@@ -35,7 +35,7 @@ We're going to tackle a classic machine learning problem: [MNIST](http://yann.le
 
 ![Sample images from the MNIST dataset](./media-link/cnn-post/mnist-examples.png "Sample images from the MNIST dataset")
 
-Each image in the MNIST dataset is 28x28 and contains a centered, grayscale digit. We'll flatten each 28x28 into a 784 dimensional vector, which we'll use as input to our neural network. Our output will be one of 10 possible classes: one for each digit.
+Each image in the MNIST dataset is 28x28 and contains a centered, grayscale digit. We'll flatten each 28x28 into a 784-dimensional vector, which we'll use as input to our neural network. Our output will be one of 10 possible classes: one for each digit.
 
 ## 1. Setup
 
@@ -45,7 +45,7 @@ I'm assuming you already have a basic Python installation ready (you probably do
 $ pip install keras tensorflow numpy mnist
 ```
 
-> Note: We need to install `tensorflow` because we're going to run Keras on a [TensorFlow](https://www.tensorflow.org/) backend (i.e. TensorFlow will power Keras).
+> Note: We need to install `tensorflow` because we're going to run Keras on a [TensorFlow](https://www.tensorflow.org/) backend (i.e., TensorFlow will power Keras).
 
 You should now be able to import these packages and poke around the MNIST dataset:
 
@@ -92,7 +92,7 @@ We're ready to start building our neural network!
 
 ## 3. Building the Model
 
-Every Keras model is either built using the [Sequential](https://keras.io/models/sequential/) class, which represents a linear stack of layers, or the functional [Model](https://keras.io/models/model/) class, which is more customizeable. We'll be using the simpler `Sequential` model, since our network is indeed a linear stack of layers.
+Every Keras model is either built using the [Sequential](https://keras.io/models/sequential/) class, which represents a linear stack of layers, or the functional [Model](https://keras.io/models/model/) class, which is more customizable. We'll be using the simpler `Sequential` model since our network is indeed a linear stack of layers.
 
 We start by instantiating a `Sequential` model:
 
@@ -119,7 +119,7 @@ model = Sequential([
 ])
 ```
 
-The first two layers have 64 nodes each and use the [ReLU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)) activation function. The last layer is a [Softmax](/blog/softmax/) output layer with 10 nodes, one for each class.
+The first two layers have 64 nodes each and use the [ReLU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)) activation function. The last layer is a [Softmax](/blog/softmax/) output layer with ten nodes, one for each class.
 
 > If you need a refresher, read my [simple Softmax explanation](/blog/softmax/).
 
@@ -164,7 +164,7 @@ model = Sequential([
 
 ## 4. Compiling the Model
 
-Before we can begin training, we need to configure the training process. We decide 3 key factors during the compilation step:
+Before we can begin training, we need to configure the training process. We decide three key factors during the compilation step:
 
 - The **optimizer**. We'll stick with a pretty good default: the [Adam](https://arxiv.org/abs/1412.6980) gradient-based optimizer. Keras has [many other optimizers](https://keras.io/optimizers/) you can look into as well.
 - The **loss function**. Since we're using a Softmax output layer, we'll use the Cross-Entropy loss. Keras distinguishes between `binary_crossentropy` (2 classes) and `categorical_crossentropy` (>2 classes), so we'll use the latter. [See all Keras losses](https://keras.io/losses/).
@@ -184,7 +184,7 @@ Onwards!
 
 ## 5. Training the Model
 
-Training a model in Keras literally consists only of calling `fit()` and specifying some parameters. There are [a lot of possible parameters](https://keras.io/models/sequential/#fit), but we'll only manually supply a few:
+Training a model in Keras consists only of calling `fit()` and specifying some parameters. There are [a lot of possible parameters](https://keras.io/models/sequential/#fit), but we'll only manually supply a few:
 
 - The **training data** (images and labels), commonly known as X and Y, respectively.
 - The **number of epochs** (iterations over the entire dataset) to train for.
@@ -201,7 +201,7 @@ model.fit(
 )
 ```
 
-This doesn't actually work yet, though - we overlooked one thing. Keras expects the training targets to be _10-dimensional vectors_, since there are 10 nodes in our Softmax output layer, but we're instead supplying a _single integer representing the class_ for each image.
+This doesn't work yet, though - we overlooked one thing. Keras expects the training targets to be _10-dimensional vectors_ since there are ten nodes in our Softmax output layer, but we're instead supplying a _single integer representing the class_ for each image.
 
 Conveniently, Keras has a utility method that fixes this exact issue: [to_categorical](https://keras.io/utils/#to_categorical). It turns our array of class integers into an array of [one-hot](https://en.wikipedia.org/wiki/One-hot) vectors instead. For example, `2` would become `[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]` (it's zero-indexed).
 
@@ -265,7 +265,7 @@ Epoch 5/5
 60000/60000 [==============================] - 2s 31us/step - loss: 0.1079 - acc: 0.9663
 ```
 
-We reached **96.6% training accuracy** after 5 epochs! This doesn't tell us much, though - we may be overfitting. The real challenge will be seeing how our model performs on our test data.
+We reached **96.6% training accuracy** after five epochs! This doesn't tell us much, though - we may be overfitting. The real challenge will be seeing how our model performs on our test data.
 
 ## 6. Testing the Model
 
@@ -312,7 +312,7 @@ model = Sequential([
 model.load_weights('model.h5')
 ```
 
-Using the trained model to make predictions is easy: we pass an array of inputs to `predict()` and it returns an array of outputs. Keep in mind that the output of our network is 10 probabilities (because of softmax), so we'll use [np.argmax()](https://docs.scipy.org/doc/numpy/reference/generated/numpy.argmax.html) to turn those into actual digits.
+Using the trained model to make predictions is straightforward: we pass an array of inputs to `predict()`, and it returns a range of outputs. Keep in mind that the production of our network is ten probabilities (because of softmax), so we'll use [np.argmax()](https://docs.scipy.org/doc/numpy/reference/generated/numpy.argmax.html) to turn those into actual digits.
 
 ```python
 # Predict on the first 5 test images.
@@ -343,7 +343,7 @@ model.compile(
 )
 ```
 
-What about the batch size and number of epochs?
+What about the batch size and the number of epochs?
 
 ```python
 model.fit(
@@ -356,7 +356,7 @@ model.fit(
 
 ### Network Depth
 
-What happens if we remove or add more fully-connected layers? How does that affect training and/or the model's final performance?
+What happens if we remove or add more fully-connected layers? How does that affect training and the model's final performance?
 
 ```python
 model = Sequential([
@@ -370,7 +370,7 @@ model = Sequential([
 
 ### Activations
 
-What if we use an activation other than ReLU, e.g. [sigmoid](https://en.wikipedia.org/wiki/Sigmoid_function)?
+What if we use an activation other than ReLU, e.g., [sigmoid](https://en.wikipedia.org/wiki/Sigmoid_function)?
 
 ```python
 model = Sequential([
@@ -412,7 +412,7 @@ model.fit(
 
 ## Conclusion
 
-You've implemented your first neural network with Keras! We achieved a test accuracy of **96.5%** on the MNIST dataset after 5 epochs, which is not bad for such a simple network. I'll include the full source code again below for your reference.
+You've implemented your first neural network with Keras! We achieved a test accuracy of **96.5%** on the MNIST dataset after five epochs, which is not bad for such a simple network. I'll include the full source code again below for your reference.
 
 If you want to learn about more advanced techniques to approach MNIST, I recommend checking out my [introduction to Convolutional Neural Networks](/blog/intro-to-cnns-part-1/) (CNNs). In it, we see how to achieve **much higher (>99%) accuracies** on MNIST using more complex networks. I also recommend my guide on [implementing a CNN with Keras](/blog/get-a-job-3/), which is similar to this post.
 
