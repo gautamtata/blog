@@ -21,7 +21,7 @@
     "test:watch": "jest --watch --config ./tests/jest-config.js"
   },
   "repository": "https://github.com/gautamtata/blog",
-  "author": "Gautam Tata <gautamtata@gmail.com>",
+  "author": "Gautam Tata <gautamtata.blog@gmail.com>",
   "license": "MIT",
   "keywords": [],
   "dependencies": {
