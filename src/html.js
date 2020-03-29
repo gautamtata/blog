@@ -23,6 +23,15 @@ export default function HTML(props) {
         />
         {props.postBodyComponents}
       </body>
+     
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114523333-4"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments)}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-114523333-4');
+      </script>
 
     </html>
   )
