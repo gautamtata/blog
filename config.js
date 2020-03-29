@@ -7,6 +7,7 @@ module.exports = {
     "SWE @Salesforce. CSUMB Class of '19. I blog about climate change, data stuff and machine learning.",
   copyright: '© Gautam Tata',
   postsPerPage: 8,
+  googleAnalyticsId :"UA-114523333-4",
   menu: [
     {
       label: 'Blog',
