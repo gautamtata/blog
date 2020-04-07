@@ -1,7 +1,7 @@
 ---
 title: "Intro To Keras: Implementing A Digit Classifier"
-date: "2019-06-14T12:00:00.000Z"
-dateModified: "2019-12-26T12:00:00.000Z"
+date: "2020-03-14T12:00:00.000Z"
+dateModified: "2020-03-13T12:00:00.000Z"
 template: "post"
 draft: false
 slug: "/blog/keras-neural-network-tutorial/"
