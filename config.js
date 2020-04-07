@@ -24,7 +24,7 @@ module.exports = {
   ],
   author: {
     name: 'Gautam Tata',
-    photo: '/favicon-16x16.png',
+    photo: '/gautam.jpg',
     photoLarge: '/gt.jpeg',
     bio:
     "SWE @Salesforce. CSUMB Class of '19. I write about climate change, data stuff, machine learning and more.",

@@ -3,6 +3,7 @@
 
 .container {
   background-color: $color-gray-bg;
+  color: white;
   @include padding-equal(0.5);
   @include margin-bottom(0.5);
 

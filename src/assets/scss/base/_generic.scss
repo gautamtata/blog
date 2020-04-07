@@ -7,6 +7,7 @@ html {
 
 body {
   margin: 0;
+  background-color: #010101;
   font-family: $typographic-font-family;
   color: $typographic-base-font-color;
   line-height: $typographic-base-line-height;
@@ -90,7 +91,7 @@ a {
   @include transition(color);
 
   &:hover, &:focus, &:active {
-    color: $typographic-link-s-font-color;
+    color: #00bcd4;
   }
 }
 
