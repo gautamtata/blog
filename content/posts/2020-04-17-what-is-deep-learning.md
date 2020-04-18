@@ -28,6 +28,8 @@ No, these terms cannot be used interchangeably as they are often done in today's
 
 You can think of AI as the Umbrella that -- encapsulates the effort to automate tasks which would usually be done by Human beings and that includes the fields of Machine Learning and Deep Learning.
 
+![Umbrella Encapsulation](https://github.com/gautamtata/blog/blob/master/static/media/deeplearning/Umbrella.png?raw=true)
+
 ### Machine Learning
 
 Machine Learning answers one question: Can a computer go beyond what was asked of it to perform? Can the computer "learn" on it's own and and answer questions? This is a different approach: Instead of explicitly programming  the computer to do a task, can we **train** the computer to do some tasks on it's own?
@@ -51,4 +53,8 @@ In Deep Learning, the layered representations are mimiced versions of nature cal
  As you can see in the image above, the input is our number. This input gets morphed and broken down into increasingly more meaningful representations of data until it reaches a stage where our computer can **predict** what it thinks is the right digit. 
 
 > Deep Learning is a multistage way to learn data representations. -- Francois Chollet, Author of Keras
+
+## The Process Of Deep Learning
+
+![Umbrella Encapsulation](https://github.com/gautamtata/blog/blob/master/static/media/deeplearning/feedback-loop.png?raw=true)
 
