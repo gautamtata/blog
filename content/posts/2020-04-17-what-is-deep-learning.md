@@ -56,5 +56,5 @@ In Deep Learning, the layered representations are mimiced versions of nature cal
 
 ## The Process Of Deep Learning
 
-![Umbrella Encapsulation](https://github.com/gautamtata/blog/blob/master/static/media/deeplearning/feedback-loop.png?raw=true)
+![Umbrella Encapsulation](https://github.com/gautamtata/blog/blob/master/static/media/deeplearning/flow.png?raw=true)
 
