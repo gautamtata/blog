@@ -46,4 +46,9 @@ So, what is Deep Learning? Deep Learning is a sub-field of Machine Learning. It 
 
 In Deep Learning, the layered representations are mimiced versions of nature called : **Neural Networks**. As fancy as that term sounds, Neural Networks are extremely simple and we will learn more about them in the next chapter. But something to remember for now, Neural Network are meant to be (from a neurobiological perspective) a version of **Neurons** in our brain. These Neurons in a simplified version, take in a single input and spit out a single input. Multiple connections of these neurons are called a Neural Network. 
 
- 
+![Deep Represntations learned by a digit classification model - Francois Chollet](https://github.com/gautamtata/blog/blob/master/static/media/deeplearning/digit-classification.jpg?raw=true)
+
+ As you can see in the image above, the input is our number. This input gets morphed and broken down into increasingly more meaningful representations of data until it reaches a stage where our computer can **predict** what it thinks is the right digit. 
+
+> Deep Learning is a multistage way to learn data representations. -- Francois Chollet, Author of Keras
+
