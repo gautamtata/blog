@@ -1,5 +1,5 @@
 ---
-title: "The Deep Learning Series: History of Machine Learning?"
+title: "The Deep Learning Series: History of Machine Learning"
 date: "2020-04-25T12:00:00.000Z"
 template: "post"
 usesKatex: true
