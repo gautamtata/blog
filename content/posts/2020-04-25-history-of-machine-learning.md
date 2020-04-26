@@ -5,7 +5,7 @@ template: "post"
 usesKatex: true
 draft: false
 slug: "/blog/history-of-machine-learning/"
-img: https://github.com/gautamtata/blog/blob/master/static/media/deep2.jpg?raw=true
+img: https://github.com/gautamtata/blog/blob/master/static/media/deeplearning/deep2.jpg?raw=true
 isML: true
 category: "Deep Learning"
 tags:

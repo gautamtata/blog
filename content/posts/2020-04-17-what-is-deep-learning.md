@@ -5,7 +5,7 @@ template: "post"
 usesKatex: true
 draft: false
 slug: "/blog/what-is-deep-learning/"
-img: https://github.com/gautamtata/blog/blob/master/static/media/deep1.jpg?raw=true
+img: https://github.com/gautamtata/blog/blob/master/static/media/deeplearning/deep1.jpg?raw=true
 isML: true
 category: "Deep Learning"
 tags:

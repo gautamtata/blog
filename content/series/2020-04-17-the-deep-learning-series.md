@@ -9,7 +9,7 @@ isML: false
 slug: "/series/the-deep-learning-series/"
 seriesSlugs:
   - "/blog/what-is-deep-learning/"
-  - "/blog/get-a-job-2/"
+  - "/blog/history-of-machine-learning/"
   - "/blog/get-a-job-3/"
   - "/blog/get-a-job-4/"
 category: "Series"
