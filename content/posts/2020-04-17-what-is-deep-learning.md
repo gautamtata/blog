@@ -5,14 +5,14 @@ template: "post"
 usesKatex: true
 draft: false
 slug: "/blog/what-is-deep-learning/"
-img: https://github.com/gautamtata/blog/blob/master/static/media/golden.jpg?raw=true
+img: https://github.com/gautamtata/blog/blob/master/static/media/deep1.jpg?raw=true
 isML: true
 category: "Deep Learning"
 tags:
-  - "tech job"
-  - "new grads"
-  - "how to"
-  - "cracking the tech interview"
+  - "Neural Networks"
+  - "Deep Learning"
+  - "Machine Learning"
+  - "For Beginners"
 description: Understanding what Deep Learning is all about.
 prev: "/blog/get-a-job-1/"
 next: "/blog/get-a-job-3/"
@@ -36,7 +36,7 @@ We can think of AI as the Umbrella that -- encapsulates the effort to automate t
 
 ### Machine Learning
 
-Machine Learning answers one question: Can a computer go beyond what was asked of it to perform? Can the computer "learn" on it is own and answer questions? This is a different approach: Instead of explicitly programming the computer to do a task, can we ***\*****train*****\*** the computer to do some tasks on its own?
+Machine Learning answers one question: Can a computer go beyond what was asked of it to perform? Can the computer "learn" on it is own and answer questions? This is a different approach: Instead of explicitly programming the computer to do a task, can we **train** the computer to do some tasks on its own?
 
 In our old paradigm, the structure used to be: Rules + Data --> Answers.
 
@@ -56,14 +56,11 @@ In Deep Learning, the layered representations are mimicked versions of nature ca
 
 ![Deep Representations learned by a digit classification model - Francois Chollet](https://github.com/gautamtata/blog/blob/master/static/media/deeplearning/digit-classification.jpg?raw=true)
 
-
-
- As we can see in the image above, the input is our number. This input gets morphed and broken down into increasingly more meaningful representations of data until it reaches a stage where our computer can **predict** what it thinks is the right digit. 
+As we can see in the image above, the input is our number. This input gets morphed and broken down into increasingly more meaningful representations of data until it reaches a stage where our computer can **predict** what it thinks is the right digit. 
 
 > Deep Learning is a multistage way to learn data representations. -- Francois Chollet, Author of Keras*
 
 ## The Process Of Deep Learning
-
 
 
 ![Stages of Learning](https://github.com/gautamtata/blog/blob/master/static/media/deeplearning/flow.png?raw=true)

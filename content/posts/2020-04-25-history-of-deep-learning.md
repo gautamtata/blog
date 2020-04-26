@@ -1,44 +1,26 @@
-\---
+---
 
 title: "The Deep Learning Series: What is Deep Learning?"
-
 date: "2020-04-17T12:00:00.000Z"
-
 template: "post"
-
 usesKatex: true
-
 draft: false
-
 slug: "/blog/history-of-machine-learning/"
-
-img: https://github.com/gautamtata/blog/blob/master/static/media/golden.jpg?raw=true
-
+img: https://github.com/gautamtata/blog/blob/master/static/media/deep2.jpg?raw=true
 isML: true
-
 category: "Deep Learning"
-
 tags:
-
-  \- "tech job"
-
-  \- "new grads"
-
-  \- "how to"
-
-  \- "cracking the tech interview"
-
+  - "Neural Networks"
+  - "Deep Learning"
+  - "Machine Learning"
+  - "For Beginners"
 description: Understanding what Deep Learning is all about.
-
 prev: "/blog/what-is-deep-learning/"
-
 next: "/blog/get-a-job-3/"
-
 discussLinkReddit: https://www.reddit.com/r/cscareerquestions/comments/fwg4xe/feedbackadvice_on_blog/
-
 discussLinkHN: https://news.ycombinator.com/item?id=22801084
 
-\---
+---
 
 # History of Machine Learning
 
