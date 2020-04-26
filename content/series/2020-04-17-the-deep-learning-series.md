@@ -18,7 +18,7 @@ tags:
   - "Deep Learning"
   - "Machine Learning"
   - "For Beginners"
-img: "https://gautamtata.com/media/nn-series/network.png"
+img: "https://github.com/gautamtata/blog/blob/master/static/media/deeplearning/alpha0.jpg?raw=true"
 description: "A one stop shop to learning eveything you need to know about Deep Learning."
 descriptionLong: "A 4-post series that provides a detailed approach on how to get a tech-job in the valley. We will
 cover how to get your resume pass the screen, how to apply and how to prepare and how to negotiate your offers."
