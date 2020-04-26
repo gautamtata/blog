@@ -26,7 +26,7 @@ discussLinkHN: https://news.ycombinator.com/item?id=22801084
 
 Deep Learning has now reached a place where it is used widely, with industries investing huge amounts of time and money into it. While it is safe to say that the industry has been shifting to using a lot of Machine Learning algorithms, It has not been all Deep Learning.
 
-> Think of Deep Learning as a hammer to hit a problem with. Many different hammers can be used to hit problems with, but we need to find the right hammer to solve our problem easier and more efficiently. 
+> Think of Deep Learning as a hammer to hit a problem with. We can use many different hammers, but we need to find the right hammer to solve our problem easier and more efficiently. 
 >
 > -- Nikhil Dev Deshmudre
 
