@@ -19,6 +19,9 @@ next: "/blog/get-a-job-3/"
 discussLinkReddit: https://www.reddit.com/r/cscareerquestions/comments/fwg4xe/feedbackadvice_on_blog/
 discussLinkHN: https://news.ycombinator.com/item?id=22801084
 ---
+
+![Learning](https://github.com/gautamtata/blog/blob/master/static/media/deeplearning/learning1.jpg?raw=true)
+
 # What is Deep learning?
 
 ## Before we get started: The difference between Artificial Intelligence, Machine Learning, and Deep Learning

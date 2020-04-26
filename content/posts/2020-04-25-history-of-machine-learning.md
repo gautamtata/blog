@@ -1,7 +1,6 @@
 ---
-
 title: "The Deep Learning Series: History of Machine Learning?"
-date: "2020-04-17T12:00:00.000Z"
+date: "2020-04-25T12:00:00.000Z"
 template: "post"
 usesKatex: true
 draft: false
@@ -21,6 +20,7 @@ discussLinkReddit: https://www.reddit.com/r/cscareerquestions/comments/fwg4xe/fe
 discussLinkHN: https://news.ycombinator.com/item?id=22801084
 
 ---
+![Learning](https://github.com/gautamtata/blog/blob/master/static/media/deeplearning/learning2.jpg?raw=true)
 
 # History of Machine Learning
 
