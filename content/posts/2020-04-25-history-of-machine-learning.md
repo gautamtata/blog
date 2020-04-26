@@ -1,6 +1,6 @@
 ---
 
-title: "The Deep Learning Series: What is Deep Learning?"
+title: "The Deep Learning Series: History of Machine Learning?"
 date: "2020-04-17T12:00:00.000Z"
 template: "post"
 usesKatex: true
@@ -14,7 +14,7 @@ tags:
   - "Deep Learning"
   - "Machine Learning"
   - "For Beginners"
-description: Understanding what Deep Learning is all about.
+description: A brief introduction to the history of Machine Learning.
 prev: "/blog/what-is-deep-learning/"
 next: "/blog/get-a-job-3/"
 discussLinkReddit: https://www.reddit.com/r/cscareerquestions/comments/fwg4xe/feedbackadvice_on_blog/
