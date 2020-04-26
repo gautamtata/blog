@@ -40,13 +40,13 @@ If we have started by learning Deep Learning before learning Machine Learning, w
 
 This theorem uses the principles of statistics for Data Analysis. It is one of the earliest forms of ML and is still used today.
 
-Naive-Bayes is a type of Machine Learning classifier based on applying Bayes Theorem while assuming that the features in the input are all independent ( A naive assumption). This analysis started even before the time of computers and was done manually, dating back to the 1950s.
+Naive-Bayes is a type of Machine Learning classifier based on applying [Bayes Theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem) while assuming that the features in the input are all independent ( A naive assumption). This analysis started even before the time of computers and was done manually, dating back to the 1950s.
 
-A related model to the Bayes theorem is called **logreg** (Logistic Regression). This is actually a classification algorithm rather than a regression one. Usually, a Data-Scientist would use logreg to get a feel of the classification problem at hand.
+A related model to the Bayes theorem is called [**logreg**](https://www.rdocumentation.org/packages/LogicReg/versions/1.6.2/topics/logreg) (Logistic Regression). This is actually a classification algorithm rather than a regression one. Usually, a Data-Scientist would use logreg to get a feel of the classification problem at hand.
 
 ### Support Vector Machines (SVM's)
 
-As Neural Networks became more popular, a new approach called **support vector machines** came into the scene and destroyed the concept of Neural networks.
+As Neural Networks became more popular, a new approach called [**support vector machines**](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47) came into the scene and destroyed the concept of Neural networks.
 
 SVM's solve classification problems by finding a good decision boundary between two sets of points. A decision boundary can be thought of as a line that separates training data into two spaces. To classify, we just need to check which side of the decision boundary the data point is located.
 
@@ -68,10 +68,12 @@ Decision Trees are flowchart like structures or Tree structures which let us cla
 
 In particular, the **Random Forest algorithm** introduced a more robust, efficient, and practical take on decision tree learning. It involves building a large number of specialized decision trees and then ensembling their outputs. Random forests are known to be the second-best algorithm for a shallow task. 
 
-In 2014, Gradient Boosting Machines started being more favored over Random Forest Algorithms. Gradient Boosting Machine is a machine learning technique that is also based on ensembling weak prediction models, but the difference being this algorithm uses **Gradient Boosting**. Gradient Boosting is a way to improve the Machine Learning model by iteratively training new models that specialize in addressing the weak points of the previous models. It is probably one of the best algorithms for dealing with non-perceptual problems today.
+In 2014, Gradient Boosting Machines started being more favored over Random Forest Algorithms. Gradient Boosting Machine is a machine learning technique that is also based on ensembling weak prediction models, but the difference being this algorithm uses [**Gradient Boosting**](https://towardsdatascience.com/understanding-gradient-boosting-machines-9be756fe76ab). Gradient Boosting is a way to improve the Machine Learning model by iteratively training new models that specialize in addressing the weak points of the previous models. It is probably one of the best algorithms for dealing with non-perceptual problems today.
 
 ## Conclusion
 
 Now that we have a basic understanding of Machine Learning algorithms, we are ready to dive deeper into Deep Learning. As always, Thank you for making it this far, and I hope to see you in the next article where we talk about the Mathematical Blocks of Neural Networks. 
 
 See you there! 
+
+
