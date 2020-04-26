@@ -40,9 +40,9 @@ We will use [Keras](https://keras.io/), [Python](https://python.org) and [Jupyte
 
 ## Table of contents
 
-* [What is Deep Learning?](/blog/what-is-deep-learning/)
-  * Artificial Intelligence, Machine Learning and Deep Learning
-  * Why Deep Learning? 
+- [What is Deep Learning?](/blog/what-is-deep-learning/)
+  - [Artificial Intelligence, Machine Learning and Deep Learning](/blog/what-is-deep-learning/)
+  - [A history of Machine Learning](/blog/history-of-machine-learning/)
 
 - The Mathematical blocks of Neural Nets
   - A look at a neural network
@@ -53,6 +53,7 @@ We will use [Keras](https://keras.io/), [Python](https://python.org) and [Jupyte
   - Layers
   - Models
   - Loss functions
+
 - Fundaments of Machine Learning
   - Branches of Machine Learning
     - Supervised and Unsupervised Learning
@@ -60,9 +61,11 @@ We will use [Keras](https://keras.io/), [Python](https://python.org) and [Jupyte
     - Reinforcement Learning
   - Training, Validation, Data PreProcessing and Feature Engineering
   - Overfitting and Underfitting
+
 - Deep Learning for:
   - Computer Vision -- Convolutional Neural Networks (CNN's)
   - Text and Sequences -- Recurrent Neural Networks (RNN's),  Long Short Term Memory Nets (LSTM's) and sequence processing with convnets.
+
 - Generative Deep Learning
   - Text generation with LSTM's
   - Image generation with autoencoders
