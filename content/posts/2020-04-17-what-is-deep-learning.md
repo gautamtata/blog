@@ -81,6 +81,8 @@ After every epoch (iteration), the objective is to minimize the loss score. Afte
 
 Here are the cliff notes for what happens when we try to train a deep learning network:
 
+![Deep Learning -- 3Blue1Brown](https://github.com/gautamtata/blog/blob/master/static/media/deeplearning/deeplearning.gif?raw=true)
+
 1. The weights are randomly initialized and are computed with the layers for a given output.
 2. This spits out a prediction that is compared with expected outputs and fed into a loss function.
 3. The loss function compares the outputs and spits out a loss score. The more the score, the worse the network is.
