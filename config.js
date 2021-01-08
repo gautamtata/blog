@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://gautamtata.com',
   title: 'gautamtata.com',
   subtitle:
-    "SWE @Salesforce. CSUMB class of '19. I like writing about Deep Learning, Computer Vision and (Tech x Climate Change)",
+    "SWE @Salesforce. CSUMB class of '19. I'm passionate about using technology to solve climate change",
   copyright: '© Gautam Tata',
   postsPerPage: 8,
   googleAnalyticsId :"UA-114523333-4",
@@ -27,7 +27,7 @@ module.exports = {
     photo: '/gautam.jpg',
     photoLarge: '/gt.jpeg',
     bio:
-    "SWE @Salesforce. CSUMB class of '19. I like writing about Deep Learning, Computer Vision and (Tech x Climate Change)",
+    "SWE @Salesforce. CSUMB class of '19. I'm passionate about using technology to solve climate change",
     copyright: '© Gautam Tata',
     contacts: {
       email: 'gautamtata.blog@gmail.com',
