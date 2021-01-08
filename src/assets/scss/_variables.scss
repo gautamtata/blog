@@ -6,6 +6,7 @@
 $color-base: #f0ece2;
 $color-primary: #eb4559;
 $color-secondary: #b9ebcc;
+$color-cadet-blue: cadetblue;
 
 $color-dark: #010101;
 
@@ -35,7 +36,7 @@ $typographic-small-font-size: 14px;
 $typographic-base-line-height: 1.625;
 
 $typographic-base-font-color: $color-base;
-$typographic-light-font-color: #010101;
+$typographic-light-font-color: $color-primary-light;
 $typographic-link-p-font-color: $color-primary;
 $typographic-link-s-font-color: $color-secondary;
 

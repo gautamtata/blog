@@ -11,12 +11,12 @@ category: "Machine Learning"
 tags:
   - "Machine Learning"
   - "Neural Networks"
-description: Keras is an easy-to-use abstraction built on top of tensorflow. Let's use Keras to build our first "hello world" of Machine Learning - The Digit Classifier
+description: Deep Computer Vision to protect the Ocean and feed humanity sustainably
 prev: "/blog/history-of-machine-learning/"
 next: "/blog/get-a-job-3/"
 ---
 
-![Deep Learning Architecture](./media-link/deeplearning/tidal_desktop.gif)
+![Interpreting feeding behavior by tracking objects in the water -- Courtesy Tidal](./media-link/deeplearning/tidal_desktop.gif)
 
 ## Abstract
 

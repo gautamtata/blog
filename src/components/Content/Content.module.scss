@@ -26,8 +26,8 @@
 
   &__subtitle {
     font-weight: normal;
-    color: $typographic-light-font-color;
-    font-size: $typographic-base-font-size * 1.5;
+    color: lightsalmon;
+    font-size: $typographic-base-font-size * 0.1;
     @include line-height(1.125);
     @include margin-top(0.2);
   }
