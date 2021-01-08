@@ -1,6 +1,8 @@
 @import '../../assets/scss/variables';
 @import '../../assets/scss/mixins';
 
+$light-salmon-that-booper-likes:rgb(247, 165, 132);
+
 .content {
   max-width: $layout-post-single-width;
   padding: 0 $layout-mobile-padding;
@@ -26,7 +28,7 @@
 
   &__subtitle {
     font-weight: normal;
-    color: lightsalmon;
+    color: $light-salmon-that-booper-likes;
     font-size: $typographic-base-font-size * 0.1;
     @include line-height(1.125);
     @include margin-top(0.2);
