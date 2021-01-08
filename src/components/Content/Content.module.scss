@@ -29,7 +29,7 @@ $light-salmon-that-booper-likes:rgb(247, 165, 132);
   &__subtitle {
     font-weight: normal;
     color: $light-salmon-that-booper-likes;
-    font-size: $typographic-base-font-size * 0.1;
+    font-size: $typographic-base-font-size * 1.5;
     @include line-height(1.125);
     @include margin-top(0.2);
   }
