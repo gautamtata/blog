@@ -1,6 +1,10 @@
 /**
  * Generic
  */
+
+$blue-that-is-white: rgb(180, 226, 255);
+$light-salmon-that-booper-likes:rgb(247, 165, 132);
+
 html {
   font-size: $typographic-root-font-size;
 }
@@ -22,7 +26,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: $typographic-font-family;
   font-weight: 600;
-  color: rgb(180, 226, 255);
+  color: $blue-that-is-white;
 }
 
 h1 {
@@ -93,7 +97,7 @@ a {
   @include transition(color);
 
   &:hover, &:focus, &:active {
-    color: #00bcd4;
+    color: $blue-that-is-white;
   }
 }
 
@@ -136,7 +140,7 @@ button {
   border: none;
   outline: none;
   background-color: $color-primary;
-  color: white;
+  color: $blue-that-is-white;
   font-size: $typographic-base-font-size * 0.75;
   font-weight: bold;
   padding: 10px 20px;
