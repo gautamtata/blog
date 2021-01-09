@@ -27,7 +27,7 @@ With rapid development in deep learning technology, it has resulted in the techn
 Each year, the need for fish is growing by 6%. This has been the most rapid growth in the meat industry. With such high demand, there is a need for fish-farming to meet the population's growing needs. In modern fish farming, data is quintessential. Advanced analytics from the massive amount of accumulated data can significantly improve the thruput of fish-farms. This blog summarizes the problems and the possible solutions faced in aquaculture, with the blog's core being in the main applications of deep learning in aquaculture.
 
 ## Applications of Deep Learning for Smarter Fish-Farming
-![A rough version of DL applications](./media-link/deeplearning/fishFarm1-4.jpg)
+![A rough version of DL applications](./media-link/deeplearning/fishFarm1-3.jpg)
 
 ### Sea-Lice Detection 
 Fish farms worldwide are being infested by Lepeiopthteirus salmonis, a form of sea-lice that feeds on fish skin and blood to survive. These parasites need to attach themselves to a fish host in order to survive, and with dense fish-farms, they not only survive but thrive. Currently, the most common treatment for sea-lice is chemicals. Although this method is effective, it has adverse effects on the fish and prevents the Salmon from being sold for several weeks after treatment. A deep learning solution would require using Convolutional Neural Networks (CNNs) to detect and identify sea-lice before they spread over to the other fish. This would save farmers time, money, and allow consumers to consume chemical treatment free fish.
