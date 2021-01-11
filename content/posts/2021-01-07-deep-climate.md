@@ -5,7 +5,7 @@ dateModified: "2021-01-01T12:00:00.000Z"
 template: "post"
 draft: false
 slug: "/blog/deep-culture/"
-img: ./media-link/deeplearning/mnist.png
+img: ./media-link/farm-architecture-9.jpg
 isML: true
 category: "Machine Learning"
 tags:
@@ -60,7 +60,7 @@ Using the aforementioned aggregated data along with computer vision, we can deve
 - Water Quality Monitoring and Control
 - Disease Identification and Prevention
 
-![A rough version of DL applications](./media-link/deeplearning/farm-architecture-9.jpg)
+![Deep Learning Pipeline Architecture](./media-link/deeplearning/farm-architecture-9.jpg)
 
 ## WHY THIS APPROACH WORKS ✅
 Let us briefly breakdown everything so far before we jump into the applications:
@@ -77,7 +77,7 @@ Now imagine these seven metrics, related measurements, and overall health evalua
 
 ### Sea-Lice Detection 🐟
 
-![Sea lice of Salmon](./media-link/deeplearning/fishLice.jpg)
+![Sea lice Detection In Salmon](./media-link/deeplearning/fishLice.jpg)
 ##### PROBLEM IT SOLVES
 
 Fish farms worldwide suffer from infestations of sea-lice. These parasites attach themselves to a fish host and feed off their skin/blood. The denser the fish farm--the easier it becomes for sea-lice to spread. 
@@ -93,7 +93,7 @@ Sea lice can cause catastrophic damage to commercial fish-farms. If not kept in 
 
 
 ### Behavioral Analysis of Fish 🦈
-![Fish Behavior analysis](./media-link/deeplearning/fish-swimming.gif)
+![Analyzing Fish Behavior using Machine Learning](./media-link/deeplearning/fish-swimming.gif)
 
 ##### PROBLEM IT SOLVES
 Small environment changes can rapidly increase stress levels for fish, thereby increasing quantities of the stress hormone Cortisol inside them. Cortisol alters the taste of the fish and has negative ramifications (**such as what**) for the consumer.
