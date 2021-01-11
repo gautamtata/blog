@@ -16,35 +16,201 @@ prev: "/blog/history-of-machine-learning/"
 next: "/blog/get-a-job-3/"
 ---
 
+Authors: [Gautam Tata]() and [Jay Lowe]()
+
 ![Interpreting feeding behavior by tracking objects in the water -- Courtesy Tidal](./media-link/deeplearning/tidal_desktop.gif)
 
-## Abstract
 
-With rapid development in deep learning technology, it has resulted in the technology being used in several fields, including fish-farming. Deep Learning creates new opportunities to automate and improve traditional fish-farming methods, which were previously done mostly manually. Various scientific papers show that Deep Learning offers breakthroughs in addressing the processing of complex data-pipelines in aquaculture.
+TODO: add links, references for claims, and costs for equipment
+      finish the last section
+      create the final summary
+      and style!
 
+## WHY?
 
-## Introduction
-Each year, the need for fish is growing by 6%. This has been the most rapid growth in the meat industry. With such high demand, there is a need for fish-farming to meet the population's growing needs. In modern fish farming, data is quintessential. Advanced analytics from the massive amount of accumulated data can significantly improve the thruput of fish-farms. This blog summarizes the problems and the possible solutions faced in aquaculture, with the blog's core being in the main applications of deep learning in aquaculture.
+The demand for fish as a source of meat increases by an average of 6% each year--making it the most rapidly growing food in the meat industry. This demand has doubled since the start of the 2000s and will double again by 2050 if the current growth rate holds.
 
-## Applications of Deep Learning for Smarter Fish-Farming
+Fish-farming has been expanding to meet this demand by increasing the number of fish within their facilities. However, as the fish become more closely packed: their quality of life decreases.
+
+Maintaining a high quality-of-life requires the following needs to be met:
+
+ - A low rate of sea-lice (Lepeiopthteirus Salmonis) infestation
+ - low levels of the stress hormone Cortisol
+ - The ideal level of food (and timed food delivery) 
+ - An appropriate biomass size
+ - Well maintained mesh nets that keep the fish enclosed (and predators out)
+ - A careful water quality balance 
+ - low rates of disease
+
+Unfortunately, quality-of-life decreases exponentially as fish become more tightly packed due to the relationship between these factors and space (less space = more transference of sea-lice, disease, etc.)
+
+## WHAT CAN WE DO/FOCUS ON TO ENSURE A HIGH-QUALITY OF LIFE?
+
+- examples of awesome figures such as the 86% increase in whatever
+  ?
+
+- Feeding costs 60% of fisheries revenue. Unreasonable feeding can be big factor in revenue [de Verdal et al., 2017](https://onlinelibrary.wiley.com/doi/abs/10.1111/raq.12202)
+- Manually selecting features is a laborious, heuristic approach, and the effectis highly dependent on both luck and experience (Mohanty et al., 2016)
+- DL models have shown strong stability under challenging conditions such as low light and high noise, and they perform better than do traditional artificial feature extraction methods (Sun et al., 2018)
+
+## HOW DO WE DO EXECUTE?
+
+Most fish farms have little, if any, technological support and tight budgets. Therefore, any solution must be easy to install and low cost.
+
+Our Deep Learning solution requires only one piece of equipment--a camera with measurement instruments integrated into it. One well place instrument in the center of a fish farm can collect and aggregate all of the data required to monitor the seven quality-of-life metrics mentioned above. When combined, these metrics can also produce a single overall health value of the fish farm which represents a holistic at-a-glance health rating.
+
+Using the aforementioned single set of aggregated data and computer vision, the following Deep Learning applications can be developed:
+- Sea-Lice Detection
+- Behavioral Analysis of Fish
+- Dynamic Fish Appetite Estimation and Delivery 
+- Biomass Measurement
+- Mesh Integrity Monitoring
+- Water Quality Monitoring and Control
+- Disease Identification and Prevention
+
 ![A rough version of DL applications](./media-link/deeplearning/fishFarm1-3.jpg)
 
-### Sea-Lice Detection 
-Fish farms worldwide are being infested by Lepeiopthteirus salmonis, a form of sea-lice that feeds on fish skin and blood to survive. These parasites need to attach themselves to a fish host in order to survive, and with dense fish-farms, they not only survive but thrive. Currently, the most common treatment for sea-lice is chemicals. Although this method is effective, it has adverse effects on the fish and prevents the Salmon from being sold for several weeks after treatment. A deep learning solution would require using Convolutional Neural Networks (CNNs) to detect and identify sea-lice before they spread over to the other fish. This would save farmers time, money, and allow consumers to consume chemical treatment free fish.
+## WHY THIS APPROACH WORKS
+Let's briefly breakdown everything so far before we jump into the applications:
 
-### Behavioral Analysis of Fish 
-Fishes react very rapidly to small environmental changes. For example, stressed fish produce high quantities of Cortisol (a stress hormone), which changes the fish's taste. There have been many challenges to monitoring fish behavior, but deep learning approaches have been successful. IdTracker.ai is a model that uses two different CNNs and can track all individual fish behaviors in small and large groups. The challenge remains enormous since tracking individual fish behaviors involves non-rigid deformations, low image quality, and frequent occlusions. Another possible solution tried by {x} shows more promising results by using a modified motion influence map and Recurrent Neural Networks (RNNs) to systematically detect, localize and recognize unusual behaviors of a fish school.
+  1. we can utilize aggregated data from a single piece of equipment in seven different applications--each dedicated to a critical factor in fish quality-of-life
+  2. each application uses similar Deep Learning technologies but results in a unique reporting value that fish farmers can take action on
+  3. the outputs can be combined in one final Deep Learning application which represents the overall health of the farm
+
+Now imagine these seven metrics, related measurements, and overall health evaluation being displayed in real-time via a gorgeous dashboard! 🚀
+
+
+# The APPLICATIONS
+
+
+### Sea-Lice Detection
+
+![Sea lice of Salmon](./media-link/deeplearning/fishLice.jpg)
+##### PROBLEM IT SOLVES
+
+Fish farms worldwide suffer from infestations of sea-lice. These parasites attach themselves to a fish host and feed off their skin/blood. The denser the fish farm--the easier it becomes for sea-lice to spread. 
+
+##### HOW IT SOLVES THE PROBLEM
+
+Harsh chemical treatments have become the most common method of sea-lice removal. While effective at removing sea-lice, the chemical treatment has adverse effects on the fish (**such as what**). It also prevents the Salmon from being sold for several weeks while they detox. 
+
+A deep learning solution utilizing Convolutional Neural Networks (CNNs) and computer vision to detect/identify sea-lice before they spread over to the other fish enable farmers to take actions such as (**what, moving fish populations or temporarily reducing density?**) before critical population levels of sea-lice trigger a complete chemical flush. 
+
+##### relation to final overall health metric (**The sea-lice detection application plays a critical role in determining...**) ?
+
+
+### Behavioral Analysis of Fish
+![Fish Behavior analysis](./media-link/deeplearning/fish-swimming.gif)
+
+##### PROBLEM IT SOLVES
+Small environment changes can rapidly increase stress levels for fish, thereby increasing quantities of the stress hormone Cortisol inside them. Cortisol alters the taste of the fish and has negative ramifications (**such as what**) for the consumer.
+
+##### HOW IT SOLVES THE PROBLEM
+The IdTracker.ai model leverages two different CNNs to provide the capability for tracking all individual fish behaviors in small and large groups--allowing farmers to detect behavior anomalies associated with increased Cortisol. However, the challenge remains enormous since tracking individual fish behaviors involves non-rigid deformations, low image quality, and frequent occlusions.
+
+{x} has demonstrated another solution that utilizes `modified motion influence maps` and `Recurrent Neural Networks (RNNs)` to systematically detect, localize, and recognize unusual behaviors within a fish school.
+
+- relation to the final overall health metric?
+
+Related Citations: [Saberioon et al., 2017](https://www.researchgate.net/publication/288516072_Application_of_Machine_Vision_Systems_in_Aquaculture_with_Emphasis_on_Fish_State-of-the-Art_and_Key_Issues), [Papadakis et al., 2012](https://www.researchgate.net/publication/235007076_A_computer-vision_system_and_methodology_for_the_analysis_of_fish_behavior), [Romero-Ferrero et al., 2019](https://pubmed.ncbi.nlm.nih.gov/30643215/), [Zhao et al., 2018a](https://www.researchgate.net/publication/310661111_Robust_tracking_of_fish_schools_using_CNN_for_head_identification)
+
 
 ### Fish Appetite detection
-In aquaculture, the fish's feeding directly correlates to the production efficiency and breeding cost. Fisheries account for feeding to be more than 60% of operating cost, and thus, excessive feeding will reduce production efficiency, and insufficient feeding will affect fish breeding and growth. Exessive feeding also pollutes the surrounding environment. Traditionally, the decision to feed fish is based on a simple timer and experience. However, many factors affect when to feed fish, such as environmental and nutritional factors. By using computer vision, a more efficient strategy can be developed for feeding. Maloy et al. used a temporal and spatial flow by combining a 3D-CNN and RNN. This dual-network could capture a spatial and temporal sequence of information and, therefore, capture both feeding and non-feeding behaviors.
+
+
+##### PROBLEM IT SOLVES
+No metric has a stronger correlation to production efficiency and breeding cost than fish feeding. Feeding accounts for 60% of the average fish farm's operations budget.
+
+Insufficient feeding drastically lowers the fish breeding/biomass growth rates while overfeeding results in wasted costs and pollution of the surrounding water environment.
+
+##### HOW IT SOLVES THE PROBLEM
+Nailing the optimal feeding times and delivery size can be challenging. Traditionally, farmers use simple timers and intuitive experience to make their decisions--which does not take into account important environmental and nutritional factors.
+
+Aggregated data containing visual information, water measurements, and historical data on fish responses to past feedings can be combined with 3D-CNN and RNN models geared for temporal/spatial data flow to generate drastically more efficient feeding. Maloy et a. utilized this dual-network approach to choose optimal feeding times that accounted for both feeding and non-feeding behaviors.
+
+- relation to the final overall health metric?
+
+Related Citations: [Måløy et al. (2019)](https://www.sciencedirect.com/science/article/pii/S0168169919313262), [Chen et al., 2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5856631/)
+
+
 
 ### Biomass Estimation
-Estimating size/biomass is essential to continuously observe fish parameters such as quantity, size, and weight when managing a fish-farm. Quantifying fish biomass forms the basis of conservation strategies for sustainable fish production. It is challenging to estimate fish biomass without human intervention because fish move freely in an environment where lightning and visibility conditions change due to depth and cannot be controlled. To estimate biomass, we look at two possible solutions: Biomass is usually tracked using SONAR images mapped to optical images. If we can train a deep learning algorithm to learn the mapping between sonar and optical images, we can automate it. Another possible solution is to segment each image of the fish and estimate volume and weight over time. This can be done by estimating the depth of an object within a frame.
+
+##### PROBLEM IT SOLVES
+Estimating biomass forms the basis for sustainably managing a fish-farm as provides farmers an insight into the quantity, size, and weight of the current fish. These crucial data points also drive decision making related to feeding and behavioral management.
+
+Measuring biomass can be challenging without human intervention as the fish move freely in an environment where lighting and visibility conditions can not be controlled. Depending on the depth of the fish, different degrees of occlusion and light change need to be accounted for.
+
+##### HOW IT SOLVES THE PROBLEM
+Two possible solutions can come together to accurately estimate biomass:
+
+  1. Train a Deep Learning algorithm to understand the mapping between sonar and optical images
+  2. Segment images of individual fish, track them over time, and continuously estimate volume and weight through changes in the fish using the depth of the object within the frame. 
+
+- relation to the final overall health metric?
+
+Related Citations: [Terayama et al., 2019](https://www.researchgate.net/publication/334450150_Integration_of_sonar_and_optical_camera_images_using_deep_neural_network_for_fish_monitoring), [Moen et al., 2018](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204713), [Zhang et al., 2020](https://www.researchgate.net/publication/343500391_R_34_Zhang_et_al_2020_Rev_Fish_Biol_Fisheries_online-101007_s11160-020-09614-y)
+
 
 ### Mesh Integrity Detection
-For fish-farms, the integrity of the mesh nets is paramount. Since special mesh nets fence off a portion of water to keep the farmed fish in a confined area, it is of utmost importance that the fish do not escape into the surrounding environments. This would not only be disastrous for the farm but the ecosystem as well. Currently, divers perform a "net integrity check," but this process is time-consuming, expensive, and presents a safety risk. A neural network approach here requires training the network to recognize nodes in the netting, and a rule for the location of node points is developed.
+
+![Mesh Detection - courtesy of ](./media-link/deeplearning/ mesh-detection.png)
+
+##### PROBLEM IT SOLVES
+Specially designed mesh nets fence the farmed fish into a confined area and ensure their safety/health. Farmed fish escaping the farm would be disastrous for the farm as well as the nearby ecosystem.
+
+##### HOW IT SOLVES THE PROBLEM
+Currently, divers perform a "net integrity check" in which they SCUBA around the perimeter of the farm and check nodes in the netting for signs of wear. Hiring professional divers, or owning the equipment to perform the dives, can be an arduous/expensive process.
+
+A deep learning neural network trained to recognize nodes in the netting can easily create rules for placement and monitoring of the mesh nets.
+
+- relation to the final overall health metric?
+
+Related Citations: [Odey Et al](https://www.researchgate.net/publication/247160483_AquaMesh_-_Design_and_Implementation_of_Smart_Wireless_Mesh_Sensor_Networks_for_Aquaculture), [Yun-Peng et al.](https://link.springer.com/article/10.1007/s41095-020-0174-8)
 
 ### Predicting Water Quality
-Predicting water quality is essential to prevent diseases and reduce risks to fish behaviors. Dissolved oxygen (DO) is considered to be one of the essential parameters for intelligent fish-farming. The prediction of DO and other parameters is closely related to time. In recent years, Deep Learning has achieved good results in short and long-term water quality monitoring. Attention equipped LSTMs (Long Short Term Memory Networks), and RNNs can capture and predict time-sequence information with good results.
 
-### Preventing Diseases
+##### PROBLEM IT SOLVES
+High levels of dissolved oxygen (DO) and other natural elements lead to lower stress and disease levels, as well as increased levels of breeding. Quality monitoring requires accurate measurements of parameters related to elements in the water over a long period.
+
+##### HOW IT SOLVES THE PROBLEM
+ Deep learning has achieved great results in both short and long-term water quality monitoring using attention-equipped Long Short Term Memory Networks (LSTMs) and RNNs to capture/predict time-sequence information related to water elements.
+
+- relation to the final overall health metric?
+
+
+[Rahman et al., 2019](https://www.researchgate.net/publication/236007029_Impact_of_Water_Quality_on_Fish_Growth_and_Production_in_Semi-Intensively_Managed_Aquaculture_Farm), [Hu et al., 2019](https://arxiv.org/pdf/1809.00794.pdf), [Liu et al](https://arxiv.org/pdf/1601.01530.pdf)
+
+### Fish Fillets Defect Detection 
+
+![Pellets of aquaculture feeding](./media-link/deeplearning/pellets.jpeg)
+
+**[REWRITE IF NEEDED]**
+
+##### PROBLEM IT SOLVES
+The detection, recognition and localization of food defects have proven to be extremely challenging infood manufacture. For fish fillets, blood spots are detrimental to their quality and reduce their marketvalue. The manual classification method hasn’t met the needs of modern industry. The modern industryr equires a robust, rapid, effective, automated, non-invasive and low-cost method for the classification of normal and defective fish fillets.
+
+##### HOW IT SOLVES THE PROBLEM
+Misimi et al.  used pre-trained CNN and SVM models for accuratesegmentation and localization of blood spots and the classification of defective cod fish fillets. A noveldata augmentation method was proposed in this study that desensitized the CNN for shape and focusedonly on color features for the classification between normal and defective fish fillets. The 3D informationwas used to localize the blood spots and calculate the relevant gripper vectors, as an input to robotic processing.
+  
+
+### Other Areas of Research
+
+- Automatic Disease Identification and Detection
+- Phytoplankton and Algal Bloom Detection
+- Temperature Prediction 
+- AUVs for autonomous detection in open seas
+- Chlorophyll-A content prediction
+- Obstacle and Occlusion avoidance in marine ecosystems
+  
+-------
+
+## Moonshot Summary  🌒
+
+> The ocean is an incredibly valuable resource to humanity. It covers 70% of the land and provides food, oxygen and livelyhoods to most of the planet. Aquaculture is just one aspect of what can improve the Ocean's health and if we as researchers can do so much to improve the Ocean  with just a camera, imagine what we can achieve when we apply our brains and research to the other problems that the ocean faces?
+>
+> Be it plastic-pollution, aquaculture or Coral depletion. (Somehow plug other problems in?)
+
+
+
+-------
